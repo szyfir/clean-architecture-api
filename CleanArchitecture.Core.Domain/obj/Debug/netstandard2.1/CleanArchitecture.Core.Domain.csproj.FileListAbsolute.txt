@@ -6,3 +6,4 @@ C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Domain\obj\
 C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Domain\obj\Debug\netstandard2.1\CleanArchitecture.Core.Domain.csproj.CoreCompileInputs.cache
 C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Domain\obj\Debug\netstandard2.1\CleanArchitecture.Core.Domain.dll
 C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Domain\obj\Debug\netstandard2.1\CleanArchitecture.Core.Domain.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Domain\obj\Debug\netstandard2.1\CleanArchitecture.Core.Domain.csprojAssemblyReference.cache

@@ -13,6 +13,7 @@ namespace CleanArchitecture.Infrastructure.GraphQL
         public static IServiceCollection AddGrahQLConfiguration(this IServiceCollection services)
         {
             services.AddScoped<SalesOrderType>();
+            services.AddScoped<SalesOrderTypeEnumType>();
             services.AddScoped<SalesOrderQuery>();
             services.AddScoped<SalesOrderSchema>();
             return services;

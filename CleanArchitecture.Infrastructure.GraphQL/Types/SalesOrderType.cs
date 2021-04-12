@@ -1,4 +1,5 @@
 ﻿using CleanArchitecture.Core.Domain.Entities;
+using CleanArchitecture.Core.Domain.Entities.Enums;
 using GraphQL.Types;
 using System;
 using System.Collections.Generic;
@@ -12,6 +13,7 @@ namespace CleanArchitecture.Infrastructure.GraphQL.Types
         {
             Field(w => w.Id).Description("Specified identificator");
             Field(w => w.Name);
+            Field<SalesOrderTypeEnumType>("Type");
         }
     }
 }

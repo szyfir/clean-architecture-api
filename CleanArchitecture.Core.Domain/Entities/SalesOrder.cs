@@ -11,7 +11,7 @@ namespace CleanArchitecture.Core.Domain.Entities
         public Guid Id { get; private set; }
         public string Name { get; private set; }
         public bool IsDepracted { get; private set; }
-        public SalesOrderType SalesOrderType { get; private set; }
+        public SalesOrderTypeEnum SalesOrderType { get; private set; }
 
         private SalesOrder()
         {
@@ -22,12 +22,12 @@ namespace CleanArchitecture.Core.Domain.Entities
             Id = Guid.NewGuid();
             Name = name;
             IsDepracted = false;
-            SalesOrderType = SalesOrderType.Normal;
+            SalesOrderType = SalesOrderTypeEnum.Normal;
         }
 
         public static SalesOrder Create(string name) => new SalesOrder(name);
 
-        public void SetType(SalesOrderType salesOrderType)
+        public void SetType(SalesOrderTypeEnum salesOrderType)
         {
             SalesOrderType = salesOrderType;
         }

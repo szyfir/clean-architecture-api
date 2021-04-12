@@ -15,6 +15,8 @@ namespace CleanArchitecture.Infrastructure.Persistance.Configurations
             builder.Property(w => w.Name)
                 .IsRequired()
                 .HasMaxLength(50);
+            builder.Property(w => w.SalesOrderType)
+                .HasConversion<int>();
         }
     }
 }

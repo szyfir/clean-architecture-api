@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CleanArchitecture.Core.Domain.Entities.Enums
 {
-    public enum SalesOrderType
+    public enum SalesOrderTypeEnum
     {
         Normal,
         Extended

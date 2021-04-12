@@ -4,14 +4,16 @@ using CleanArchitecture.Infrastructure.Persistance;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CleanArchitecture.Infrastructure.Persistance.Migrations
 {
     [DbContext(typeof(CleanArchitectureDbContext))]
-    partial class CleanArchitectureDbContextModelSnapshot : ModelSnapshot
+    [Migration("20210412195752_AddSalesOrderType")]
+    partial class AddSalesOrderType
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -41,6 +41,7 @@
           "coverlet.collector": "1.3.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3",
+          "System.Reactive.Reference": "4.4.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -167,7 +168,7 @@
           "System": "4.0.0.0",
           "System.Drawing": "4.0.0.0",
           "System.Drawing.Primitives": "4.2.1.0",
-          "System.Dynamic.Runtime.Reference": "4.1.2.0",
+          "System.Dynamic.Runtime": "4.1.2.0",
           "System.Globalization.Calendars.Reference": "4.1.2.0",
           "System.Globalization.Reference": "4.1.2.0",
           "System.Globalization.Extensions.Reference": "4.1.2.0",
@@ -254,7 +255,6 @@
           "System.Threading.Channels": "4.0.2.0",
           "System.Threading.Reference": "4.1.2.0",
           "System.Threading.Overlapped": "4.1.2.0",
-          "System.Threading.Tasks.Dataflow": "4.6.5.0",
           "System.Threading.Tasks.Reference": "4.1.2.0",
           "System.Threading.Tasks.Extensions.Reference": "4.3.1.0",
           "System.Threading.Tasks.Parallel": "4.0.4.0",
@@ -413,6 +413,201 @@
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
         }
       },
+      "GraphQL/4.2.0": {
+        "dependencies": {
+          "GraphQL-Parser": "7.0.0",
+          "Microsoft.CSharp": "4.7.0",
+          "System.ComponentModel.Annotations": "5.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/GraphQL.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/GraphQL.dll": {}
+        }
+      },
+      "GraphQL-Parser/7.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/GraphQL-Parser.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/GraphQL-Parser.dll": {}
+        }
+      },
+      "GraphQL.DataLoader/4.1.0": {
+        "dependencies": {
+          "GraphQL": "4.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.DataLoader.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.DataLoader.dll": {}
+        }
+      },
+      "GraphQL.NewtonsoftJson/4.1.0": {
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Buffers": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.NewtonsoftJson.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.NewtonsoftJson.dll": {}
+        }
+      },
+      "GraphQL.Server.Core/5.0.1": {
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "GraphQL.DataLoader": "4.1.0",
+          "Microsoft.Extensions.Options": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.Server.Core.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.Server.Core.dll": {}
+        }
+      },
+      "GraphQL.Server.Transports.AspNetCore/5.0.1": {
+        "dependencies": {
+          "GraphQL.Server.Core": "5.0.1",
+          "Microsoft.Extensions.Options": "5.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Transports.AspNetCore.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/GraphQL.Server.Transports.AspNetCore.dll": {}
+        }
+      },
+      "GraphQL.Server.Transports.AspNetCore.NewtonsoftJson/5.0.1": {
+        "dependencies": {
+          "GraphQL.NewtonsoftJson": "4.1.0",
+          "GraphQL.Server.Transports.AspNetCore": "5.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Transports.AspNetCore.NewtonsoftJson.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/GraphQL.Server.Transports.AspNetCore.NewtonsoftJson.dll": {}
+        }
+      },
+      "GraphQL.Server.Transports.AspNetCore.SystemTextJson/5.0.1": {
+        "dependencies": {
+          "GraphQL.Server.Transports.AspNetCore": "5.0.1",
+          "GraphQL.Server.Transports.Subscriptions.Abstractions": "5.0.1",
+          "GraphQL.SystemTextJson": "4.1.0",
+          "System.IO.Pipelines": "5.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll": {}
+        }
+      },
+      "GraphQL.Server.Transports.Subscriptions.Abstractions/5.0.1": {
+        "dependencies": {
+          "GraphQL.NewtonsoftJson": "4.1.0",
+          "GraphQL.Server.Core": "5.0.1",
+          "GraphQL.SystemReactive": "4.1.0",
+          "Microsoft.Extensions.Logging": "5.0.0",
+          "System.Threading.Tasks.Dataflow": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.Server.Transports.Subscriptions.Abstractions.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.Server.Transports.Subscriptions.Abstractions.dll": {}
+        }
+      },
+      "GraphQL.Server.Ui.Playground/5.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Playground.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Playground.dll": {}
+        }
+      },
+      "GraphQL.SystemReactive/4.1.0": {
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "System.Reactive.Core": "4.4.1",
+          "System.Reactive.Linq": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.SystemReactive.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.SystemReactive.dll": {}
+        }
+      },
+      "GraphQL.SystemTextJson/4.1.0": {
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/GraphQL.SystemTextJson.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/GraphQL.SystemTextJson.dll": {}
+        }
+      },
+      "MailKit/2.11.1": {
+        "dependencies": {
+          "MimeKit": "2.11.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MailKit.dll": {
+            "assemblyVersion": "2.11.0.0",
+            "fileVersion": "2.11.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/MailKit.dll": {}
+        }
+      },
       "MediatR/9.0.0": {
         "runtime": {
           "lib/netstandard2.1/MediatR.dll": {
@@ -511,7 +706,7 @@
       },
       "Microsoft.AspNetCore.TestHost/3.1.13": {
         "dependencies": {
-          "System.IO.Pipelines": "4.7.4"
+          "System.IO.Pipelines": "5.0.1"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.TestHost.dll": {
@@ -1201,7 +1396,7 @@
       "Microsoft.IdentityModel.Protocols.OpenIdConnect/5.6.0": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols": "5.6.0",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "12.0.3",
           "System.IdentityModel.Tokens.Jwt": "6.9.0"
         },
         "runtime": {
@@ -1357,7 +1552,7 @@
       "Microsoft.TestPlatform.TestHost/16.7.1": {
         "dependencies": {
           "Microsoft.TestPlatform.ObjectModel": "16.7.1",
-          "Newtonsoft.Json": "10.0.1"
+          "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/netcoreapp2.1/Microsoft.TestPlatform.CommunicationUtilities.dll": {
@@ -1630,6 +1825,24 @@
           "System.Threading.AccessControl": "5.0.0"
         }
       },
+      "MimeKit/2.11.0": {
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.10",
+          "System.Buffers": "4.5.1",
+          "System.Reflection.TypeExtensions": "4.4.0",
+          "System.Security.Cryptography.Pkcs": "5.0.0",
+          "System.Text.Encoding.CodePages": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MimeKit.dll": {
+            "assemblyVersion": "2.11.0.0",
+            "fileVersion": "2.11.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/MimeKit.dll": {}
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -1678,43 +1891,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/10.0.1": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.7.0",
-          "System.Collections": "4.3.0",
-          "System.ComponentModel.TypeConverter": "4.3.0",
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Dynamic.Runtime": "4.3.0",
-          "System.Globalization": "4.3.0",
-          "System.IO": "4.3.0",
-          "System.Linq": "4.3.0",
-          "System.Linq.Expressions": "4.3.0",
-          "System.ObjectModel": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Reflection.Extensions": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Runtime.Numerics": "4.3.0",
-          "System.Runtime.Serialization.Formatters": "4.3.0",
-          "System.Runtime.Serialization.Primitives": "4.3.0",
-          "System.Text.Encoding": "4.3.0",
-          "System.Text.Encoding.Extensions": "4.3.0",
-          "System.Text.RegularExpressions": "4.3.0",
-          "System.Threading": "4.3.0",
-          "System.Threading.Tasks": "4.3.0",
-          "System.Xml.ReaderWriter": "4.3.0",
-          "System.Xml.XDocument": "4.3.0",
-          "System.Xml.XmlDocument": "4.3.0"
-        },
+      "Newtonsoft.Json/12.0.3": {
         "runtime": {
-          "lib/netstandard1.3/Newtonsoft.Json.dll": {
-            "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.1.20720"
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
           }
         },
         "compile": {
-          "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "NuGet.Frameworks/5.0.0": {
@@ -1726,6 +1911,17 @@
         },
         "compile": {
           "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.10": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.10.0",
+            "fileVersion": "1.8.10.1"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {}
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
@@ -2059,15 +2255,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Buffers/4.3.0": {
-        "dependencies": {
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Diagnostics.Tracing": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading": "4.3.0"
-        }
-      },
+      "System.Buffers/4.5.1": {},
       "System.CodeDom/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -2193,7 +2381,7 @@
           "System.Reflection": "4.3.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -2518,24 +2706,6 @@
           "ref/netcoreapp3.0/System.Drawing.Common.dll": {}
         }
       },
-      "System.Dynamic.Runtime/4.3.0": {
-        "dependencies": {
-          "System.Collections": "4.3.0",
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Linq": "4.3.0",
-          "System.Linq.Expressions": "4.3.0",
-          "System.ObjectModel": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Reflection.Emit": "4.7.0",
-          "System.Reflection.Emit.ILGeneration": "4.7.0",
-          "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Threading": "4.3.0"
-        }
-      },
       "System.Formats.Asn1/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.Formats.Asn1.dll": {
@@ -2596,7 +2766,7 @@
       "System.IO.Compression/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
-          "System.Buffers": "4.3.0",
+          "System.Buffers": "4.5.1",
           "System.Collections": "4.3.0",
           "System.Diagnostics.Debug": "4.3.0",
           "System.IO": "4.3.0",
@@ -2614,7 +2784,7 @@
       },
       "System.IO.Compression.ZipFile/4.3.0": {
         "dependencies": {
-          "System.Buffers": "4.3.0",
+          "System.Buffers": "4.5.1",
           "System.IO": "4.3.0",
           "System.IO.Compression": "4.3.0",
           "System.IO.FileSystem": "4.3.0",
@@ -2676,11 +2846,11 @@
           "ref/netstandard2.0/System.IO.Packaging.dll": {}
         }
       },
-      "System.IO.Pipelines/4.7.4": {
+      "System.IO.Pipelines/5.0.1": {
         "runtime": {
           "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
-            "assemblyVersion": "4.0.2.3",
-            "fileVersion": "4.700.20.56604"
+            "assemblyVersion": "5.0.0.1",
+            "fileVersion": "5.0.120.57516"
           }
         },
         "compile": {
@@ -2755,7 +2925,7 @@
           "System.Reflection.Emit.Lightweight": "4.7.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -2875,7 +3045,7 @@
           "System.Reflection.Emit.Lightweight": "4.7.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -2908,6 +3078,37 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
           "Microsoft.NETCore.Targets": "1.1.3"
+        }
+      },
+      "System.Reactive/4.4.1": {},
+      "System.Reactive.Core/4.4.1": {
+        "dependencies": {
+          "System.Reactive": "4.4.1",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Reactive.Core.dll": {
+            "assemblyVersion": "3.0.6000.0",
+            "fileVersion": "3.0.6000.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Reactive.Core.dll": {}
+        }
+      },
+      "System.Reactive.Linq/4.4.1": {
+        "dependencies": {
+          "System.Reactive": "4.4.1",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Reactive.Linq.dll": {
+            "assemblyVersion": "3.0.6000.0",
+            "fileVersion": "3.0.6000.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Reactive.Linq.dll": {}
         }
       },
       "System.Reflection/4.3.0": {
@@ -2949,12 +3150,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Reflection.TypeExtensions/4.3.0": {
-        "dependencies": {
-          "System.Reflection": "4.3.0",
-          "System.Runtime": "4.3.0"
-        }
-      },
+      "System.Reflection.TypeExtensions/4.4.0": {},
       "System.Resources.ResourceManager/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -3532,13 +3728,18 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Threading.Tasks.Extensions/4.3.0": {
-        "dependencies": {
-          "System.Collections": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading.Tasks": "4.3.0"
+      "System.Threading.Tasks.Dataflow/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll": {}
         }
       },
+      "System.Threading.Tasks.Extensions/4.5.4": {},
       "System.Threading.Timer/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -3584,7 +3785,7 @@
           "System.Text.Encoding.Extensions": "4.3.0",
           "System.Text.RegularExpressions": "4.3.0",
           "System.Threading.Tasks": "4.3.0",
-          "System.Threading.Tasks.Extensions": "4.3.0"
+          "System.Threading.Tasks.Extensions": "4.5.4"
         }
       },
       "System.Xml.XDocument/4.3.0": {
@@ -3628,7 +3829,7 @@
           "System.Reflection.Emit.ILGeneration": "4.7.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.4.0",
           "System.Resources.ResourceManager": "4.3.0",
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
@@ -3711,10 +3912,19 @@
       "CleanArchitecture.API/1.0.0": {
         "dependencies": {
           "CleanArchitecture.Core.Application": "1.0.0",
+          "CleanArchitecture.Infrastructure": "1.0.0",
+          "CleanArchitecture.Infrastructure.GraphQL": "1.0.0",
           "CleanArchitecture.Infrastructure.Identity": "1.0.0",
           "CleanArchitecture.Infrastructure.Persistance": "1.0.0",
+          "GraphQL": "4.2.0",
+          "GraphQL.Server.Core": "5.0.1",
+          "GraphQL.Server.Transports.AspNetCore": "5.0.1",
+          "GraphQL.Server.Transports.AspNetCore.NewtonsoftJson": "5.0.1",
+          "GraphQL.Server.Transports.AspNetCore.SystemTextJson": "5.0.1",
+          "GraphQL.Server.Ui.Playground": "5.0.1",
           "MediatR": "9.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0-preview.2.21154.6",
           "Serilog.AspNetCore": "4.0.1-dev-00219",
           "Swashbuckle.AspNetCore.Swagger": "6.1.1",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.1.1",
@@ -3754,6 +3964,32 @@
           "CleanArchitecture.Core.Domain.dll": {}
         }
       },
+      "CleanArchitecture.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Core.Application": "1.0.0",
+          "MailKit": "2.11.1",
+          "MimeKit": "2.11.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Infrastructure.dll": {}
+        },
+        "compile": {
+          "CleanArchitecture.Infrastructure.dll": {}
+        }
+      },
+      "CleanArchitecture.Infrastructure.GraphQL/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Core.Application": "1.0.0",
+          "CleanArchitecture.Core.Domain": "1.0.0",
+          "GraphQL": "4.2.0"
+        },
+        "runtime": {
+          "CleanArchitecture.Infrastructure.GraphQL.dll": {}
+        },
+        "compile": {
+          "CleanArchitecture.Infrastructure.GraphQL.dll": {}
+        }
+      },
       "CleanArchitecture.Infrastructure.Identity/1.0.0": {
         "dependencies": {
           "CleanArchitecture.Core.Application": "1.0.0",
@@ -3780,6 +4016,17 @@
         },
         "compile": {
           "CleanArchitecture.Infrastructure.Persistance.dll": {}
+        }
+      },
+      "System.Reactive.Reference/4.4.0.0": {
+        "runtime": {
+          "System.Reactive.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.1.57983"
+          }
+        },
+        "compile": {
+          "System.Reactive.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4538,7 +4785,7 @@
         },
         "compileOnly": true
       },
-      "System.Dynamic.Runtime.Reference/4.1.2.0": {
+      "System.Dynamic.Runtime/4.1.2.0": {
         "compile": {
           "System.Dynamic.Runtime.dll": {}
         },
@@ -5060,12 +5307,6 @@
         },
         "compileOnly": true
       },
-      "System.Threading.Tasks.Dataflow/4.6.5.0": {
-        "compile": {
-          "System.Threading.Tasks.Dataflow.dll": {}
-        },
-        "compileOnly": true
-      },
       "System.Threading.Tasks.Reference/4.1.2.0": {
         "compile": {
           "System.Threading.Tasks.dll": {}
@@ -5275,6 +5516,97 @@
       "sha512": "sha512-4pXuWSjbQWCfTQmQ4lVkF1R/g+ql7/Q4VEp5TUpuIcxYVVWUNLbQa1sFIaf31aO6AQXb7Yso1zIDwUVtNR21UQ==",
       "path": "fluentvalidation.dependencyinjectionextensions/10.0.0-preview1",
       "hashPath": "fluentvalidation.dependencyinjectionextensions.10.0.0-preview1.nupkg.sha512"
+    },
+    "GraphQL/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NNUzjbGJPREzRPVQ2ain21lMFtBLZc1MFXeT+mbu+RaThZESYFVGGEUobSrU9wXxJkQvU2uGsuoKrdtv0J0LYA==",
+      "path": "graphql/4.2.0",
+      "hashPath": "graphql.4.2.0.nupkg.sha512"
+    },
+    "GraphQL-Parser/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O5jegoGy5swjgjUJTJWf4A5iJnZsisa58+dbhiG/mfdUgkLnePS6F0Zki5EeCOfiCJ3HYfAd8z7jl09Hpb6TCw==",
+      "path": "graphql-parser/7.0.0",
+      "hashPath": "graphql-parser.7.0.0.nupkg.sha512"
+    },
+    "GraphQL.DataLoader/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M52nV5jphZh33uKIG9y6072xsAjB76IzRXB+X7V6RHsnvslV/16YJ361UJl26Z4OTtD2dsIeP4LWp9PntKyiOg==",
+      "path": "graphql.dataloader/4.1.0",
+      "hashPath": "graphql.dataloader.4.1.0.nupkg.sha512"
+    },
+    "GraphQL.NewtonsoftJson/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gcfI2WtI9euQdpSGPo1W3oydFy/ejataZKyn1DXAoIL80Av7vU5dtBIp6lGcz9PMElc8VovDbdPwnx0lli7ZqA==",
+      "path": "graphql.newtonsoftjson/4.1.0",
+      "hashPath": "graphql.newtonsoftjson.4.1.0.nupkg.sha512"
+    },
+    "GraphQL.Server.Core/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wJexIFSD/lRm9af7c478UqyEEv22MF3JCN6Nw7Lccovl/PiS6b+sq8+CNs+X9Pq6FttuauxSAh6vTVt7eujZYg==",
+      "path": "graphql.server.core/5.0.1",
+      "hashPath": "graphql.server.core.5.0.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Transports.AspNetCore/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ozaVODOrE3m7gKdZbmWMuUBvSAv/H6lV/7uBtcHjqOFxTQJrj5cwReybXpVKgPQSxz5g+IlYq3hNcqAhZz5R7Q==",
+      "path": "graphql.server.transports.aspnetcore/5.0.1",
+      "hashPath": "graphql.server.transports.aspnetcore.5.0.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Transports.AspNetCore.NewtonsoftJson/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oGgrITiGwft2ke+ZgOY63JSzCeBAbeZu1AAKnkVicyzDrbCnfg+A7LyoB+ObbsXgfCvHLuJ6s1AdOl7xFFb97Q==",
+      "path": "graphql.server.transports.aspnetcore.newtonsoftjson/5.0.1",
+      "hashPath": "graphql.server.transports.aspnetcore.newtonsoftjson.5.0.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Transports.AspNetCore.SystemTextJson/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AdJWWkRpCUD7HTvdp7ncxp/EtWbSNnmaXm5xIXnf12ZFly5OSMAKjSUyAExVzacvsGsadk58DxRxXbgnQCJozg==",
+      "path": "graphql.server.transports.aspnetcore.systemtextjson/5.0.1",
+      "hashPath": "graphql.server.transports.aspnetcore.systemtextjson.5.0.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Transports.Subscriptions.Abstractions/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FRCr7ZQofADY5Q+PVxSZVhlcLCI/2gA5SdZlbBKZcrrx4V5x9QeHROmqFZQ+i7At2K1g9nPapN23yLtDVitzag==",
+      "path": "graphql.server.transports.subscriptions.abstractions/5.0.1",
+      "hashPath": "graphql.server.transports.subscriptions.abstractions.5.0.1.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.Playground/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6Dyd0nr29K1fPx6SJVSnWNN2BgDRbW+NjJ8Td0umOiw2+iUjBL4gSip34XMPLUmLpNf9EZlArw5T62sIjSGAcA==",
+      "path": "graphql.server.ui.playground/5.0.1",
+      "hashPath": "graphql.server.ui.playground.5.0.1.nupkg.sha512"
+    },
+    "GraphQL.SystemReactive/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nJWQo8DuQG3I9LitP3E7mwXSve74b7YPPMW2iaMnbAWWZ31guwzELtKSzv74RLaqqMNepSo9/a9/zRaUa5z9OA==",
+      "path": "graphql.systemreactive/4.1.0",
+      "hashPath": "graphql.systemreactive.4.1.0.nupkg.sha512"
+    },
+    "GraphQL.SystemTextJson/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PRsUnfmA8ETZjyfuLn3LeNVlpzcqIO1uAHFQ/vY06W/eGO8bcs8bkJqZ6RZZ/ZPC2XY+NO+K3GNLQ5RkLCqwyQ==",
+      "path": "graphql.systemtextjson/4.1.0",
+      "hashPath": "graphql.systemtextjson.4.1.0.nupkg.sha512"
+    },
+    "MailKit/2.11.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z/MjVOicmCCLMgOQ3pr7MKQ9fsIrMt5qA2qqTO7Uux7Q6y4pYQFV4HBeJcc/oTjNxngiLzFlUoF9oSuQdFD/ig==",
+      "path": "mailkit/2.11.1",
+      "hashPath": "mailkit.2.11.1.nupkg.sha512"
     },
     "MediatR/9.0.0": {
       "type": "package",
@@ -5731,6 +6063,13 @@
       "path": "microsoft.windows.compatibility/5.0.0",
       "hashPath": "microsoft.windows.compatibility.5.0.0.nupkg.sha512"
     },
+    "MimeKit/2.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xZGy3hLMxbw0ks82N/NjVYsW7Qb4pMEPtoJ+kcoJw566KVF2RJh2+kl0rdmzitghgf7FpxPGJmCNgIh+iciBmg==",
+      "path": "mimekit/2.11.0",
+      "hashPath": "mimekit.2.11.0.nupkg.sha512"
+    },
     "NETStandard.Library/1.6.1": {
       "type": "package",
       "serviceable": true,
@@ -5738,12 +6077,12 @@
       "path": "netstandard.library/1.6.1",
       "hashPath": "netstandard.library.1.6.1.nupkg.sha512"
     },
-    "Newtonsoft.Json/10.0.1": {
+    "Newtonsoft.Json/12.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
-      "path": "newtonsoft.json/10.0.1",
-      "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
     "NuGet.Frameworks/5.0.0": {
       "type": "package",
@@ -5751,6 +6090,13 @@
       "sha512": "sha512-c5JVjuVAm4f7E9Vj+v09Z9s2ZsqFDjBpcsyS3M9xRo0bEdm/LVZSzLxxNvfvAwRiiE8nwe1h2G4OwiwlzFKXlA==",
       "path": "nuget.frameworks/5.0.0",
       "hashPath": "nuget.frameworks.5.0.0.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.8.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XLhjNAwuVB9ynwn11l5K44eyozh8q6gFseTrlnLNttejimglX7+F9+vxh60LPjvA/DAt6fUdS43N3ah8K6eaWg==",
+      "path": "portable.bouncycastle/1.8.10",
+      "hashPath": "portable.bouncycastle.1.8.10.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
@@ -6025,12 +6371,12 @@
       "path": "system.appcontext/4.3.0",
       "hashPath": "system.appcontext.4.3.0.nupkg.sha512"
     },
-    "System.Buffers/4.3.0": {
+    "System.Buffers/4.5.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ratu44uTIHgeBeI0dE8DWvmXVBSo4u7ozRZZHOMmK/JPpYyo0dAfgSiHlpiObMQ5lEtEyIXA40sKRYg5J6A8uQ==",
-      "path": "system.buffers/4.3.0",
-      "hashPath": "system.buffers.4.3.0.nupkg.sha512"
+      "sha512": "sha512-Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "path": "system.buffers/4.5.1",
+      "hashPath": "system.buffers.4.5.1.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",
@@ -6228,13 +6574,6 @@
       "path": "system.drawing.common/5.0.0",
       "hashPath": "system.drawing.common.5.0.0.nupkg.sha512"
     },
-    "System.Dynamic.Runtime/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
-      "path": "system.dynamic.runtime/4.3.0",
-      "hashPath": "system.dynamic.runtime.4.3.0.nupkg.sha512"
-    },
     "System.Formats.Asn1/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -6319,12 +6658,12 @@
       "path": "system.io.packaging/5.0.0",
       "hashPath": "system.io.packaging.5.0.0.nupkg.sha512"
     },
-    "System.IO.Pipelines/4.7.4": {
+    "System.IO.Pipelines/5.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-TQqNjDcTVu6eTDB2S0vjSUhn0udEugL93D9zgsOsSiJO1kv1UWDM2o0+79H95I5X+S0VPEzm4ihj6KPwhNEb7g==",
-      "path": "system.io.pipelines/4.7.4",
-      "hashPath": "system.io.pipelines.4.7.4.nupkg.sha512"
+      "sha512": "sha512-qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
+      "path": "system.io.pipelines/5.0.1",
+      "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
     },
     "System.IO.Pipes.AccessControl/5.0.0": {
       "type": "package",
@@ -6424,6 +6763,27 @@
       "path": "system.private.uri/4.3.2",
       "hashPath": "system.private.uri.4.3.2.nupkg.sha512"
     },
+    "System.Reactive/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iSTPeWR9HJhGoNV4WhVlvofuiTjpok1i4E3LPgMdbMqf3jKhFlT9HAlO32lb52NLppWC/4dZQFfUzTytvyXBmw==",
+      "path": "system.reactive/4.4.1",
+      "hashPath": "system.reactive.4.4.1.nupkg.sha512"
+    },
+    "System.Reactive.Core/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YQHJOt8hZvwFelIIfs19t8Jhz5P6NS1ZZccbVUuE1LFyoFZjaUecdYIYykgXzpyj5Rl40XC3xkyuuhHRaAln2w==",
+      "path": "system.reactive.core/4.4.1",
+      "hashPath": "system.reactive.core.4.4.1.nupkg.sha512"
+    },
+    "System.Reactive.Linq/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wyOVuUyHmPV667REPwcZjFjOlRLX6qSGVcXMye0qUqBAWFB3bu1RO1XLGWZTnf0d67DQHV69kw7tAtTh+4EYyQ==",
+      "path": "system.reactive.linq/4.4.1",
+      "hashPath": "system.reactive.linq.4.4.1.nupkg.sha512"
+    },
     "System.Reflection/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -6480,12 +6840,12 @@
       "path": "system.reflection.primitives/4.3.0",
       "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
     },
-    "System.Reflection.TypeExtensions/4.3.0": {
+    "System.Reflection.TypeExtensions/4.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
-      "path": "system.reflection.typeextensions/4.3.0",
-      "hashPath": "system.reflection.typeextensions.4.3.0.nupkg.sha512"
+      "sha512": "sha512-dkmh/ySlwnXJp/1qYP9uyKkCK1CXR/REFzl7abHcArxBcV91mY2CgrrzSRA5Z/X4MevJWwXsklGRdR3A7K9zbg==",
+      "path": "system.reflection.typeextensions/4.4.0",
+      "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
     },
     "System.Resources.ResourceManager/4.3.0": {
       "type": "package",
@@ -6774,12 +7134,19 @@
       "path": "system.threading.tasks/4.3.0",
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
-    "System.Threading.Tasks.Extensions/4.3.0": {
+    "System.Threading.Tasks.Dataflow/5.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-npvJkVKl5rKXrtl1Kkm6OhOUaYGEiF9wFbppFRWSMoApKzt2PiPHT2Bb8a5sAWxprvdOAtvaARS9QYMznEUtug==",
-      "path": "system.threading.tasks.extensions/4.3.0",
-      "hashPath": "system.threading.tasks.extensions.4.3.0.nupkg.sha512"
+      "sha512": "sha512-NBp0zSAMZp4muDje6XmbDfmkqw9+qsDCHp+YMEtnVgHEjQZ3Q7MzFTTp3eHqpExn4BwMrS7JkUVOTcVchig4Sw==",
+      "path": "system.threading.tasks.dataflow/5.0.0",
+      "hashPath": "system.threading.tasks.dataflow.5.0.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
     "System.Threading.Timer/4.3.0": {
       "type": "package",
@@ -6894,6 +7261,16 @@
       "serviceable": false,
       "sha512": ""
     },
+    "CleanArchitecture.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Infrastructure.GraphQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CleanArchitecture.Infrastructure.Identity/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -6901,6 +7278,11 @@
     },
     "CleanArchitecture.Infrastructure.Persistance/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reactive.Reference/4.4.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
@@ -7534,7 +7916,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "System.Dynamic.Runtime.Reference/4.1.2.0": {
+    "System.Dynamic.Runtime/4.1.2.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
@@ -7965,11 +8347,6 @@
       "sha512": ""
     },
     "System.Threading.Overlapped/4.1.2.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Threading.Tasks.Dataflow/4.6.5.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
