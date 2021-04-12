@@ -1,0 +1,14 @@
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.deps.json
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Application.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Domain.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Application.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Domain.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.csprojAssemblyReference.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.AssemblyInfoInputs.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.AssemblyInfo.cs
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.csproj.CopyComplete
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.GraphQL\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.GraphQL.pdb

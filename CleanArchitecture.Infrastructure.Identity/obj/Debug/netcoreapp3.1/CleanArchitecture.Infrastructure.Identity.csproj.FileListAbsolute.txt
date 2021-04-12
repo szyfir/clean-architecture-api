@@ -1,0 +1,14 @@
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.deps.json
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Application.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Domain.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Application.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\bin\Debug\netcoreapp3.1\CleanArchitecture.Core.Domain.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.csprojAssemblyReference.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.AssemblyInfoInputs.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.AssemblyInfo.cs
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.csproj.CopyComplete
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Identity\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.Identity.pdb

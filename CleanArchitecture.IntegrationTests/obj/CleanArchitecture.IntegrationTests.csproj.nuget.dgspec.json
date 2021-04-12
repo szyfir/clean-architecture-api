@@ -1,0 +1,665 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+        "projectName": "CleanArchitecture.API",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj"
+              },
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\CleanArchitecture.Infrastructure.GraphQL.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\CleanArchitecture.Infrastructure.GraphQL.csproj"
+              },
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Identity\\CleanArchitecture.Infrastructure.Identity.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Identity\\CleanArchitecture.Infrastructure.Identity.csproj"
+              },
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj"
+              },
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "GraphQL.Server.Core": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore.SystemTextJson": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.1.21102.12, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1-dev-00219, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj",
+        "projectName": "CleanArchitecture.Core.Application",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Contrib.Autofac.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.0.0-preview1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.1.21102.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj",
+        "projectName": "CleanArchitecture.Core.Domain",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\CleanArchitecture.Infrastructure.GraphQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\CleanArchitecture.Infrastructure.GraphQL.csproj",
+        "projectName": "CleanArchitecture.Infrastructure.GraphQL",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\CleanArchitecture.Infrastructure.GraphQL.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj"
+              },
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Domain\\CleanArchitecture.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Identity\\CleanArchitecture.Infrastructure.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Identity\\CleanArchitecture.Infrastructure.Identity.csproj",
+        "projectName": "CleanArchitecture.Infrastructure.Identity",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Identity\\CleanArchitecture.Infrastructure.Identity.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj",
+        "projectName": "CleanArchitecture.Infrastructure.Persistance",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectName": "CleanArchitecture.Infrastructure",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Core.Application\\CleanArchitecture.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
+        "projectName": "CleanArchitecture.IntegrationTests",
+        "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\filus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj"
+              },
+              "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj": {
+                "projectPath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.Persistance\\CleanArchitecture.Infrastructure.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.2.21154.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

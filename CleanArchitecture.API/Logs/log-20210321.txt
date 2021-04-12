@@ -1,0 +1,1287 @@
+2021-03-21 10:49:08.591 +01:00 [INF] Applicaitons started
+2021-03-21 10:49:28.915 +01:00 [INF] Applicaitons started
+2021-03-21 11:12:24.593 +01:00 [INF] Applicaiton started
+2021-03-21 11:12:25.154 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 11:12:25.158 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 11:12:25.159 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 11:12:25.159 +01:00 [INF] Hosting environment: Development
+2021-03-21 11:12:25.159 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 11:12:26.146 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-21 11:12:26.236 +01:00 [INF] Request finished in 96.7235ms 404 
+2021-03-21 11:12:45.757 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger  
+2021-03-21 11:12:45.761 +01:00 [INF] Request finished in 3.8846ms 301 
+2021-03-21 11:12:45.765 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 11:12:45.804 +01:00 [INF] Request finished in 39.2703ms 200 text/html;charset=utf-8
+2021-03-21 11:12:45.859 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css  
+2021-03-21 11:12:45.865 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+2021-03-21 11:12:45.870 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+2021-03-21 11:12:45.962 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-03-21 11:12:45.962 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-03-21 11:12:45.967 +01:00 [INF] Request finished in 97.6134ms 200 application/javascript
+2021-03-21 11:12:45.967 +01:00 [INF] Request finished in 108.5167ms 200 text/css
+2021-03-21 11:12:45.973 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-03-21 11:12:45.973 +01:00 [INF] Request finished in 108.727ms 200 application/javascript
+2021-03-21 11:12:46.278 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 11:12:46.331 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png  
+2021-03-21 11:12:46.333 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-03-21 11:12:46.334 +01:00 [INF] Request finished in 3.7107ms 200 image/png
+2021-03-21 11:12:46.427 +01:00 [INF] Request finished in 149.7697ms 200 application/json;charset=utf-8
+2021-03-21 11:12:48.514 +01:00 [INF] Application is shutting down...
+2021-03-21 11:14:45.086 +01:00 [INF] Applicaiton started
+2021-03-21 11:16:12.678 +01:00 [INF] Applicaiton starting
+2021-03-21 11:16:47.248 +01:00 [INF] Applicaiton starting
+2021-03-21 11:17:44.880 +01:00 [INF] Applicaiton starting
+2021-03-21 11:19:01.213 +01:00 [INF] Applicaiton starting
+2021-03-21 11:19:15.513 +01:00 [INF] Applicaiton starting
+2021-03-21 11:38:05.252 +01:00 [INF] Applicaiton starting
+2021-03-21 11:38:22.554 +01:00 [INF] Applicaiton starting
+2021-03-21 11:38:55.518 +01:00 [INF] Applicaiton starting
+2021-03-21 11:39:12.594 +01:00 [INF] Applicaiton starting
+2021-03-21 11:40:27.477 +01:00 [INF] Applicaiton starting
+2021-03-21 11:40:51.509 +01:00 [INF] Applicaiton starting
+2021-03-21 12:46:43.545 +01:00 [INF] Starting up
+2021-03-21 12:46:45.036 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 12:46:45.043 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 12:46:45.044 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 12:46:45.045 +01:00 [INF] Hosting environment: Development
+2021-03-21 12:46:45.046 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 12:46:45.877 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+2021-03-21 12:46:45.948 +01:00 [INF] Request finished in 73.3248ms 404 
+2021-03-21 12:50:40.415 +01:00 [INF] Starting up
+2021-03-21 12:50:41.923 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 12:50:41.928 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 12:50:41.929 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 12:50:41.930 +01:00 [INF] Hosting environment: Development
+2021-03-21 12:50:41.930 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 12:50:43.074 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 12:50:43.186 +01:00 [INF] Request finished in 117.3012ms 200 text/html;charset=utf-8
+2021-03-21 12:50:43.521 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 12:50:43.741 +01:00 [INF] Request finished in 220.2749ms 200 application/json;charset=utf-8
+2021-03-21 12:50:53.558 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 12:50:53.568 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 12:50:53.626 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 12:50:55.073 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 12:50:57.875 +01:00 [INF] Executed DbCommand (518ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-03-21 12:50:57.989 +01:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto, CleanArchitecture.Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-03-21 12:50:58.009 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 4372.4348ms
+2021-03-21 12:50:58.014 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 12:50:58.027 +01:00 [INF] Request finished in 4468.8475ms 200 application/json; charset=utf-8
+2021-03-21 16:02:38.000 +01:00 [INF] Starting up
+2021-03-21 16:02:39.952 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 16:02:39.963 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 16:02:39.964 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 16:02:39.964 +01:00 [INF] Hosting environment: Development
+2021-03-21 16:02:39.966 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 16:02:41.228 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 16:02:41.352 +01:00 [INF] Request finished in 128.1799ms 200 text/html;charset=utf-8
+2021-03-21 16:02:41.644 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 16:02:41.851 +01:00 [INF] Request finished in 206.3171ms 200 application/json;charset=utf-8
+2021-03-21 16:08:21.210 +01:00 [INF] Application is shutting down...
+2021-03-21 16:10:10.954 +01:00 [INF] Starting up
+2021-03-21 16:10:12.711 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 16:10:12.716 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 16:10:12.717 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 16:10:12.718 +01:00 [INF] Hosting environment: Development
+2021-03-21 16:10:12.719 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 16:10:13.499 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 16:10:13.611 +01:00 [INF] Request finished in 118.3677ms 200 text/html;charset=utf-8
+2021-03-21 16:10:13.919 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 16:10:14.079 +01:00 [INF] Request finished in 160.0397ms 200 application/json;charset=utf-8
+2021-03-21 16:10:37.334 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 16:10:37.344 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:10:37.410 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 16:10:37.980 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 561.4593ms
+2021-03-21 16:10:37.986 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:10:37.991 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 16:10:38.130 +01:00 [INF] Request finished in 796.8742ms 500 text/plain
+2021-03-21 16:14:13.549 +01:00 [INF] Starting up
+2021-03-21 16:14:14.900 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 16:14:14.906 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 16:14:14.907 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 16:14:14.908 +01:00 [INF] Hosting environment: Development
+2021-03-21 16:14:14.909 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 16:14:15.736 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 16:14:15.847 +01:00 [INF] Request finished in 115.2753ms 200 text/html;charset=utf-8
+2021-03-21 16:14:16.171 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 16:14:16.331 +01:00 [INF] Request finished in 160.2406ms 200 application/json;charset=utf-8
+2021-03-21 16:14:21.441 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 16:14:21.452 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:14:21.505 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 16:14:21.613 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 98.9965ms
+2021-03-21 16:14:21.618 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:14:21.623 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 16:14:21.781 +01:00 [INF] Request finished in 340.0002ms 500 text/plain
+2021-03-21 16:17:36.893 +01:00 [INF] Starting up
+2021-03-21 16:17:38.430 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 16:17:38.435 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 16:17:38.436 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 16:17:38.437 +01:00 [INF] Hosting environment: Development
+2021-03-21 16:17:38.437 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 16:17:39.346 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 16:17:39.469 +01:00 [INF] Request finished in 128.5372ms 200 text/html;charset=utf-8
+2021-03-21 16:17:39.757 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 16:17:39.891 +01:00 [INF] Request finished in 134.1629ms 200 application/json;charset=utf-8
+2021-03-21 16:18:29.990 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 16:18:30.005 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:18:30.056 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 16:18:30.173 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 108.901ms
+2021-03-21 16:18:30.179 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:18:30.185 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 16:18:30.279 +01:00 [INF] Request finished in 290.0462ms 500 text/plain
+2021-03-21 16:31:07.285 +01:00 [INF] Starting up
+2021-03-21 16:31:08.300 +01:00 [FTL] Application start-up failed
+System.ArgumentException: Cannot instantiate implementation type 'FluentValidation.AbstractValidator`1[T]' for service type 'FluentValidation.IValidator`1[T]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 16:31:54.617 +01:00 [INF] Starting up
+2021-03-21 16:31:55.595 +01:00 [FTL] Application start-up failed
+System.ArgumentException: Open generic service type 'FluentValidation.IValidator`1[T]' requires registering an open generic implementation type. (Parameter 'descriptors')
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 16:32:56.527 +01:00 [INF] Starting up
+2021-03-21 16:32:58.058 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 16:32:58.064 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 16:32:58.065 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 16:32:58.066 +01:00 [INF] Hosting environment: Development
+2021-03-21 16:32:58.067 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 16:32:59.010 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 16:32:59.116 +01:00 [INF] Request finished in 110.6394ms 200 text/html;charset=utf-8
+2021-03-21 16:32:59.417 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 16:32:59.566 +01:00 [INF] Request finished in 149.3207ms 200 application/json;charset=utf-8
+2021-03-21 16:33:13.153 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 16:33:13.163 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:33:13.216 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 16:33:13.330 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 105.5537ms
+2021-03-21 16:33:13.336 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:33:13.343 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 16:33:13.447 +01:00 [INF] Request finished in 295.1705ms 500 text/plain
+2021-03-21 16:42:39.300 +01:00 [INF] Starting up
+2021-03-21 16:42:41.268 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 16:42:41.273 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 16:42:41.274 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 16:42:41.275 +01:00 [INF] Hosting environment: Development
+2021-03-21 16:42:41.276 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 16:42:42.318 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 16:42:42.453 +01:00 [INF] Request finished in 144.1541ms 200 text/html;charset=utf-8
+2021-03-21 16:42:42.895 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 16:42:43.198 +01:00 [INF] Request finished in 303.1979ms 200 application/json;charset=utf-8
+2021-03-21 16:42:46.299 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 16:42:46.309 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:42:46.363 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 16:42:46.467 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 95.797ms
+2021-03-21 16:42:46.472 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 16:42:46.477 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 16:42:46.594 +01:00 [INF] Request finished in 295.2684ms 500 text/plain
+2021-03-21 16:42:56.690 +01:00 [INF] Application is shutting down...
+2021-03-21 17:02:32.620 +01:00 [INF] Starting up
+2021-03-21 17:02:34.180 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 17:02:34.186 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 17:02:34.187 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 17:02:34.187 +01:00 [INF] Hosting environment: Development
+2021-03-21 17:02:34.188 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 17:02:35.196 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 17:02:35.308 +01:00 [INF] Request finished in 118.0095ms 200 text/html;charset=utf-8
+2021-03-21 17:02:35.588 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 17:02:35.732 +01:00 [INF] Request finished in 144.961ms 200 application/json;charset=utf-8
+2021-03-21 17:02:39.360 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 17:02:39.370 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:02:39.428 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 17:02:39.545 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 109.7359ms
+2021-03-21 17:02:39.551 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:02:39.557 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 17:02:39.689 +01:00 [INF] Request finished in 329.2681ms 500 text/plain
+2021-03-21 17:02:52.001 +01:00 [INF] Application is shutting down...
+2021-03-21 17:04:20.773 +01:00 [INF] Starting up
+2021-03-21 17:04:22.440 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 17:04:22.446 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 17:04:22.447 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 17:04:22.448 +01:00 [INF] Hosting environment: Development
+2021-03-21 17:04:22.448 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 17:04:23.517 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 17:04:23.635 +01:00 [INF] Request finished in 122.2838ms 200 text/html;charset=utf-8
+2021-03-21 17:04:23.933 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 17:04:24.076 +01:00 [INF] Request finished in 143.0749ms 200 application/json;charset=utf-8
+2021-03-21 17:04:34.038 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 17:04:34.049 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:04:34.105 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 17:04:35.096 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 17:04:35.194 +01:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2021-03-21 17:04:35.204 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 1090.7336ms
+2021-03-21 17:04:35.206 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:04:35.213 +01:00 [INF] Request finished in 1175.188ms 204 
+2021-03-21 17:04:55.500 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 17:04:55.503 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:04:55.505 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 17:04:55.547 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 17:04:55.550 +01:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2021-03-21 17:04:55.552 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 44.1896ms
+2021-03-21 17:04:55.553 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:04:55.555 +01:00 [INF] Request finished in 55.3551ms 204 
+2021-03-21 17:05:16.161 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 17:05:16.164 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:05:16.166 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 17:05:16.183 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 17:05:16.187 +01:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2021-03-21 17:05:16.188 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 18.3697ms
+2021-03-21 17:05:16.189 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:05:16.191 +01:00 [INF] Request finished in 30.274ms 204 
+2021-03-21 17:05:24.717 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 17:05:24.719 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:05:24.721 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 17:05:24.727 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 17:05:24.732 +01:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2021-03-21 17:05:24.733 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 9.1735ms
+2021-03-21 17:05:24.736 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:05:24.737 +01:00 [INF] Request finished in 21.14ms 204 
+2021-03-21 17:06:01.728 +01:00 [INF] Starting up
+2021-03-21 17:06:03.217 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 17:06:03.224 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 17:06:03.225 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 17:06:03.226 +01:00 [INF] Hosting environment: Development
+2021-03-21 17:06:03.227 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 17:06:03.865 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 17:06:04.039 +01:00 [INF] Request finished in 180.7619ms 200 text/html;charset=utf-8
+2021-03-21 17:06:04.351 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 17:06:04.499 +01:00 [INF] Request finished in 148.9283ms 200 application/json;charset=utf-8
+2021-03-21 17:06:08.919 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 17:06:08.929 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:06:08.982 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 17:06:09.101 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 110.7009ms
+2021-03-21 17:06:09.107 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 17:06:09.112 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 17:06:09.209 +01:00 [INF] Request finished in 290.1311ms 500 text/plain
+2021-03-21 17:10:55.971 +01:00 [INF] Starting up
+2021-03-21 17:10:57.417 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 34
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 17:11:31.366 +01:00 [INF] Starting up
+2021-03-21 17:11:32.377 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 17:12:30.655 +01:00 [INF] Starting up
+2021-03-21 17:12:31.655 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcCoreBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.Core.Application.ApplicationServiceConfiguration.AddApplicationSercices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\ApplicationServiceConfiguration.cs:line 19
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 17:13:21.740 +01:00 [INF] Starting up
+2021-03-21 17:13:22.677 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcCoreBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.Core.Application.ApplicationServiceConfiguration.AddApplicationSercices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\ApplicationServiceConfiguration.cs:line 19
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 17:13:54.577 +01:00 [INF] Starting up
+2021-03-21 17:13:55.578 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcCoreBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.Core.Application.ApplicationServiceConfiguration.AddApplicationSercices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\ApplicationServiceConfiguration.cs:line 19
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 17:14:28.418 +01:00 [INF] Starting up
+2021-03-21 17:14:29.389 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcCoreBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.Core.Application.ApplicationServiceConfiguration.AddApplicationSercices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\ApplicationServiceConfiguration.cs:line 19
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 17:16:33.717 +01:00 [INF] Starting up
+2021-03-21 17:16:34.755 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcCoreBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.Core.Application.ApplicationServiceConfiguration.AddApplicationSercices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\ApplicationServiceConfiguration.cs:line 19
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 19:02:04.967 +01:00 [INF] Starting up
+2021-03-21 19:02:06.336 +01:00 [FTL] Application start-up failed
+System.MissingMethodException: Method not found: 'Microsoft.Extensions.DependencyInjection.IServiceCollection FluentValidation.ServiceCollectionExtensions.AddValidatorsFromAssemblies(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Collections.Generic.IEnumerable`1<System.Reflection.Assembly>, Microsoft.Extensions.DependencyInjection.ServiceLifetime)'.
+   at FluentValidation.AspNetCore.FluentValidationMvcExtensions.AddFluentValidation(IMvcCoreBuilder mvcBuilder, Action`1 configurationExpression)
+   at CleanArchitecture.Core.Application.ApplicationServiceConfiguration.AddApplicationSercices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\ApplicationServiceConfiguration.cs:line 21
+   at CleanArchitecture.API.Startup.ConfigureServices(IServiceCollection services) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Startup.cs:line 32
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-03-21 19:04:47.066 +01:00 [INF] Starting up
+2021-03-21 19:04:48.984 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:04:48.992 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:04:48.993 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:04:48.994 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:04:48.995 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:04:50.049 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:04:50.162 +01:00 [INF] Request finished in 117.2946ms 200 text/html;charset=utf-8
+2021-03-21 19:04:50.513 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:04:50.649 +01:00 [INF] Request finished in 136.1204ms 200 application/json;charset=utf-8
+2021-03-21 19:04:54.668 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:04:54.678 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:04:54.732 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:04:54.860 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 118.5912ms
+2021-03-21 19:04:54.865 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:04:54.871 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:04:55.012 +01:00 [INF] Request finished in 344.3396ms 500 text/plain
+2021-03-21 19:07:03.162 +01:00 [INF] Starting up
+2021-03-21 19:07:04.803 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:07:04.809 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:07:04.811 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:07:04.812 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:07:04.813 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:07:05.720 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:07:05.836 +01:00 [INF] Request finished in 120.656ms 200 text/html;charset=utf-8
+2021-03-21 19:07:06.128 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:07:06.261 +01:00 [INF] Request finished in 133.9294ms 200 application/json;charset=utf-8
+2021-03-21 19:07:09.251 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:07:09.261 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:07:09.316 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:07:09.425 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 99.8293ms
+2021-03-21 19:07:09.430 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:07:09.435 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:07:09.535 +01:00 [INF] Request finished in 284.3733ms 500 text/plain
+2021-03-21 19:07:46.972 +01:00 [INF] Application is shutting down...
+2021-03-21 19:07:58.382 +01:00 [INF] Starting up
+2021-03-21 19:08:00.111 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:08:00.117 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:08:00.119 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:08:00.120 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:08:00.121 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:08:00.807 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:08:00.943 +01:00 [INF] Request finished in 138.6858ms 200 text/html;charset=utf-8
+2021-03-21 19:08:01.286 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:08:01.455 +01:00 [INF] Request finished in 169.1298ms 200 application/json;charset=utf-8
+2021-03-21 19:08:04.180 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:08:04.190 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:08:04.242 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:08:04.349 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 98.6682ms
+2021-03-21 19:08:04.355 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:08:04.361 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:08:04.460 +01:00 [INF] Request finished in 279.7913ms 500 text/plain
+2021-03-21 19:08:14.864 +01:00 [INF] Application is shutting down...
+2021-03-21 19:08:42.337 +01:00 [INF] Starting up
+2021-03-21 19:08:43.975 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:08:43.981 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:08:43.982 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:08:43.983 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:08:43.984 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:08:44.835 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:08:44.950 +01:00 [INF] Request finished in 121.2121ms 200 text/html;charset=utf-8
+2021-03-21 19:08:45.243 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:08:45.371 +01:00 [INF] Request finished in 128.1858ms 200 application/json;charset=utf-8
+2021-03-21 19:08:48.359 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:08:48.369 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:08:48.424 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:08:48.546 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 112.9411ms
+2021-03-21 19:08:48.553 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:08:48.560 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:08:48.658 +01:00 [INF] Request finished in 299.7384ms 500 text/plain
+2021-03-21 19:08:53.614 +01:00 [INF] Application is shutting down...
+2021-03-21 19:11:01.114 +01:00 [INF] Starting up
+2021-03-21 19:11:02.799 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:11:02.804 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:11:02.805 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:11:02.806 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:11:02.807 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:11:03.780 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:11:03.918 +01:00 [INF] Request finished in 142.6036ms 200 text/html;charset=utf-8
+2021-03-21 19:11:04.212 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:11:04.357 +01:00 [INF] Request finished in 144.9918ms 200 application/json;charset=utf-8
+2021-03-21 19:11:06.968 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:11:06.977 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:11:07.029 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:11:07.134 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 96.3154ms
+2021-03-21 19:11:07.139 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:11:07.144 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:11:07.261 +01:00 [INF] Request finished in 293.3483ms 500 text/plain
+2021-03-21 19:11:26.707 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:11:26.709 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:11:26.711 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:11:26.752 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 38.711ms
+2021-03-21 19:11:26.754 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:11:26.756 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Commands.AddSalesOrder.AddSalesOrderCommand,MediatR.Unit]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:11:26.776 +01:00 [INF] Request finished in 69.6087ms 500 text/plain
+2021-03-21 19:14:09.813 +01:00 [INF] Starting up
+2021-03-21 19:14:11.491 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:14:11.499 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:14:11.500 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:14:11.501 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:14:11.501 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:14:12.363 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:14:12.493 +01:00 [INF] Request finished in 133.2333ms 200 text/html;charset=utf-8
+2021-03-21 19:14:12.785 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:14:12.911 +01:00 [INF] Request finished in 125.4205ms 200 application/json;charset=utf-8
+2021-03-21 19:14:17.661 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 19:14:17.672 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:14:17.720 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:14:17.812 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 83.4798ms
+2021-03-21 19:14:17.818 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:14:17.823 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.GetAllSalesOrderQuery]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.GetAllSalesOrderQuery,System.Collections.Generic.IEnumerable`1[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto]]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync() in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 33
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:14:17.938 +01:00 [INF] Request finished in 277.8316ms 500 text/plain
+2021-03-21 19:17:29.779 +01:00 [INF] Starting up
+2021-03-21 19:17:31.539 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:17:31.545 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:17:31.547 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:17:31.547 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:17:31.548 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:17:32.291 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:17:32.394 +01:00 [INF] Request finished in 106.1786ms 200 text/html;charset=utf-8
+2021-03-21 19:17:32.708 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:17:32.852 +01:00 [INF] Request finished in 144.4659ms 200 application/json;charset=utf-8
+2021-03-21 19:17:35.041 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 19:17:35.051 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:17:35.093 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:17:36.195 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 19:17:38.210 +01:00 [INF] Executed DbCommand (151ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-03-21 19:17:38.314 +01:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto, CleanArchitecture.Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-03-21 19:17:38.333 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 3228.9345ms
+2021-03-21 19:17:38.335 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:17:38.343 +01:00 [INF] Request finished in 3302.9353ms 200 application/json; charset=utf-8
+2021-03-21 19:17:42.760 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:17:42.763 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:17:42.783 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:18:00.805 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 18018.4775ms
+2021-03-21 19:18:00.810 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:18:00.824 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+CleanArchitecture.Core.Application.Exceptions.ValidationException: Error in the application.
+   at CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\Behaviours\CommandValidationBehaviour.cs:line 40
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_1.<Handle>b__2()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:18:00.934 +01:00 [INF] Request finished in 18173.8911ms 500 text/plain
+2021-03-21 19:19:15.918 +01:00 [INF] Starting up
+2021-03-21 19:19:17.502 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:19:17.522 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:19:17.523 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:19:17.525 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:19:17.526 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:19:18.419 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:19:18.529 +01:00 [INF] Request finished in 114.4839ms 200 text/html;charset=utf-8
+2021-03-21 19:19:18.809 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:19:18.937 +01:00 [INF] Request finished in 128.1904ms 200 application/json;charset=utf-8
+2021-03-21 19:19:21.129 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 19:19:21.140 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:19:21.187 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:19:21.274 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 78.7107ms
+2021-03-21 19:19:21.279 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:19:21.285 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'System.Collections.Generic.IList`1[FluentValidation.IValidator`1[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.GetAllSalesOrderQuery]]' while attempting to activate 'CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.GetAllSalesOrderQuery,System.Collections.Generic.IEnumerable`1[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto]]'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateOpenGeneric(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot, Boolean throwOnConstraintViolation)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateEnumerable(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.CreateServiceAccessor(Type serviceType)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstances[T](ServiceFactory factory)
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, CancellationToken cancellationToken, ServiceFactory serviceFactory)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync() in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 33
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:19:21.386 +01:00 [INF] Request finished in 256.8164ms 500 text/plain
+2021-03-21 19:20:25.373 +01:00 [INF] Starting up
+2021-03-21 19:20:26.952 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:20:26.957 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:20:26.958 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:20:26.959 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:20:26.960 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:20:27.619 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:20:27.746 +01:00 [INF] Request finished in 131.7904ms 200 text/html;charset=utf-8
+2021-03-21 19:20:28.157 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:20:28.292 +01:00 [INF] Request finished in 135.5913ms 200 application/json;charset=utf-8
+2021-03-21 19:20:30.606 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 19:20:30.616 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:20:30.663 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:20:31.650 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 19:20:32.601 +01:00 [INF] Executed DbCommand (56ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-03-21 19:20:32.681 +01:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto, CleanArchitecture.Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-03-21 19:20:32.696 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 2024.9942ms
+2021-03-21 19:20:32.698 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:20:32.706 +01:00 [INF] Request finished in 2100.9362ms 200 application/json; charset=utf-8
+2021-03-21 19:20:38.956 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:20:38.958 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:20:38.976 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:20:49.644 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 10664.0963ms
+2021-03-21 19:20:49.646 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:20:49.652 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+CleanArchitecture.Core.Application.Exceptions.ValidationException: Error in the application.
+   at CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\Behaviours\CommandValidationBehaviour.cs:line 42
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_1.<Handle>b__2()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:20:49.738 +01:00 [INF] Request finished in 10782.8917ms 500 text/plain
+2021-03-21 19:38:55.545 +01:00 [INF] Starting up
+2021-03-21 19:38:57.896 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:38:57.902 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:38:57.903 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:38:57.904 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:38:57.905 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:38:58.884 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:38:59.025 +01:00 [INF] Request finished in 160.6742ms 200 text/html;charset=utf-8
+2021-03-21 19:38:59.363 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:38:59.534 +01:00 [INF] Request finished in 171.265ms 200 application/json;charset=utf-8
+2021-03-21 19:39:08.840 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 19:39:08.851 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:39:08.897 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:39:09.943 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 19:39:13.310 +01:00 [INF] Executed DbCommand (56ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-03-21 19:39:13.403 +01:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto, CleanArchitecture.Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-03-21 19:39:13.418 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 4513.2566ms
+2021-03-21 19:39:13.421 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 19:39:13.431 +01:00 [INF] Request finished in 4591.1765ms 200 application/json; charset=utf-8
+2021-03-21 19:39:18.000 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:39:18.003 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:39:18.027 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:39:21.834 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 3804.0635ms
+2021-03-21 19:39:21.837 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:39:21.843 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+CleanArchitecture.Core.Application.Exceptions.ValidationException: Error in the application.
+   at CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\Behaviours\CommandValidationBehaviour.cs:line 42
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_1.<Handle>b__2()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:39:21.928 +01:00 [INF] Request finished in 3928.629ms 500 text/plain
+2021-03-21 19:39:55.221 +01:00 [INF] Starting up
+2021-03-21 19:39:56.877 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:39:56.882 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:39:56.883 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:39:56.884 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:39:56.885 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:39:57.737 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:39:57.844 +01:00 [INF] Request finished in 114.0928ms 200 text/html;charset=utf-8
+2021-03-21 19:39:58.135 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:39:58.295 +01:00 [INF] Request finished in 160.5115ms 200 application/json;charset=utf-8
+2021-03-21 19:40:04.257 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder  0
+2021-03-21 19:40:04.273 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:40:04.331 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:40:30.550 +01:00 [INF] Starting up
+2021-03-21 19:40:32.207 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 19:40:32.213 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 19:40:32.214 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 19:40:32.215 +01:00 [INF] Hosting environment: Development
+2021-03-21 19:40:32.216 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 19:40:33.349 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 19:40:33.464 +01:00 [INF] Request finished in 119.9789ms 200 text/html;charset=utf-8
+2021-03-21 19:40:33.779 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 19:40:33.933 +01:00 [INF] Request finished in 154.2647ms 200 application/json;charset=utf-8
+2021-03-21 19:40:38.648 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/54  0
+2021-03-21 19:40:38.662 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:40:38.717 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:40:47.862 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 19:40:47.959 +01:00 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2021-03-21 19:40:47.968 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 9242.4357ms
+2021-03-21 19:40:47.971 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:40:47.979 +01:00 [INF] Request finished in 9330.9087ms 204 
+2021-03-21 19:41:05.627 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/jkhiuofyug87tv8o7bg687cv8567tc86ut xytrcxyit4ri65yrytrytrxytxetrztrexrtucvf7i64v6ytrvyvtrytvrvrtyv5yvtvrrvrtivrtyvrvrttyerkvrvtrvitvrivir6virrvvirrv6vr6ivr6vr6vriivr7ivr7iv7r6v7rvr76ivrrv6ivriv6r7ri67  0
+2021-03-21 19:41:05.629 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:41:05.631 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 19:41:42.244 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 36610.311ms
+2021-03-21 19:41:42.247 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 19:41:42.254 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+CleanArchitecture.Core.Application.Exceptions.ValidationException: Error in the application.
+   at CleanArchitecture.Core.Application.Behaviours.CommandValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Core.Application\Behaviours\CommandValidationBehaviour.cs:line 42
+   at MediatR.Internal.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_1.<Handle>b__2()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at CleanArchitecture.API.Controllers.SalesOrderController.AddAsync(String name) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Controllers\SalesOrderController.cs:line 40
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-21 19:41:42.344 +01:00 [INF] Request finished in 36717.2283ms 500 text/plain
+2021-03-21 21:14:44.982 +01:00 [INF] Starting up
+2021-03-21 21:14:46.562 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 21:14:46.569 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 21:14:46.570 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 21:14:46.571 +01:00 [INF] Hosting environment: Development
+2021-03-21 21:14:46.572 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 21:14:47.593 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 21:14:47.701 +01:00 [INF] Request finished in 113.155ms 200 text/html;charset=utf-8
+2021-03-21 21:14:48.054 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 21:14:48.226 +01:00 [INF] Request finished in 171.6285ms 200 application/json;charset=utf-8
+2021-03-21 21:15:03.491 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/api/SalesOrder  
+2021-03-21 21:15:03.502 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 21:15:03.557 +01:00 [INF] Route matched with {action = "GetAll", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllAsync() on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:15:04.706 +01:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-03-21 21:15:05.811 +01:00 [INF] Executed DbCommand (53ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-03-21 21:15:05.903 +01:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[CleanArchitecture.Core.Application.Features.Orders.Queries.GetAllSalesOrder.SalesOrderDto, CleanArchitecture.Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-03-21 21:15:05.920 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API) in 2354.8734ms
+2021-03-21 21:15:05.925 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.GetAllAsync (CleanArchitecture.API)'
+2021-03-21 21:15:05.934 +01:00 [INF] Request finished in 2443.3824ms 200 application/json; charset=utf-8
+2021-03-21 21:15:30.669 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/wqkedhs9dywa98n9sad87mas89d 7as9d9n8d7nsa98mnd7as89das,j,ioqwe4joi9upqwEPJDASPPIOSDA09DASHHIUDAS  0
+2021-03-21 21:15:30.672 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:15:30.691 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:15:36.439 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 5744.9901ms
+2021-03-21 21:15:36.442 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:15:36.633 +01:00 [INF] Request finished in 5964.4687ms 400 
+2021-03-21 21:17:02.366 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/wqkedhs9dywa98n9sad87mas89d 7as9d9n8d7nsa98mnd7as89das,j,ioqwe4joi9upqwEPJDASPPIOSDA09DASHHIUDAS  0
+2021-03-21 21:17:02.369 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:17:02.372 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:17:05.265 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 2890.0374ms
+2021-03-21 21:17:05.268 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:17:28.884 +01:00 [INF] Starting up
+2021-03-21 21:17:30.284 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 21:17:30.291 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 21:17:30.292 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 21:17:30.293 +01:00 [INF] Hosting environment: Development
+2021-03-21 21:17:30.294 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 21:17:30.895 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 21:17:31.030 +01:00 [INF] Request finished in 138.7296ms 200 text/html;charset=utf-8
+2021-03-21 21:17:31.403 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 21:17:31.547 +01:00 [INF] Request finished in 143.6739ms 200 application/json;charset=utf-8
+2021-03-21 21:17:42.823 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/IKOJDAWSOSAOIDJASOIDJASOIDJSAOIDJASOIDJSAOIDJASOIDJASOIDJSAOIDJAIOSDJISAJDOISAJDOISAJODIASJOIDSAJL;KCSAN;LNCSAOI09C[y+)a(sN SAUIDMDSAIJASDSA  0
+2021-03-21 21:17:42.834 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:17:42.885 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:20:25.913 +01:00 [INF] Starting up
+2021-03-21 21:20:27.505 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 21:20:27.510 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 21:20:27.511 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 21:20:27.512 +01:00 [INF] Hosting environment: Development
+2021-03-21 21:20:27.513 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 21:20:28.512 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 21:20:28.651 +01:00 [INF] Request finished in 144.3314ms 200 text/html;charset=utf-8
+2021-03-21 21:20:28.948 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 21:20:29.130 +01:00 [INF] Request finished in 181.9347ms 200 application/json;charset=utf-8
+2021-03-21 21:20:37.590 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/KJHYUGUYGGUYGIUYHSADOIJSAOIPDJSAOIDJAOSIDJOASIJDAOSIJDOIASJDOISAJDOIASJOIDJASOIDJASODASOJIJDOAS  0
+2021-03-21 21:20:37.601 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:20:37.654 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:20:53.229 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 15565.9098ms
+2021-03-21 21:20:53.234 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:20:54.736 +01:00 [INF] Request finished in 17146.7349ms 400 
+2021-03-21 21:20:58.680 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/KJHYUGUYGGUYGIUYHSADOIJSAOIPDJSAOIDJAOSIDJOASIJDAOSIJDOIASJDOISAJDOIASJOIDJASOIDJASODASOJIJDOAS  0
+2021-03-21 21:20:58.682 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:20:58.684 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:21:06.623 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 7937.0338ms
+2021-03-21 21:21:06.626 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:21:40.908 +01:00 [INF] Request finished in 42228.1621ms 400 
+2021-03-21 21:22:09.483 +01:00 [INF] Starting up
+2021-03-21 21:22:11.274 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 21:22:11.281 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 21:22:11.283 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 21:22:11.283 +01:00 [INF] Hosting environment: Development
+2021-03-21 21:22:11.284 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 21:22:12.041 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 21:22:12.189 +01:00 [INF] Request finished in 152.3028ms 200 text/html;charset=utf-8
+2021-03-21 21:22:12.552 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 21:22:12.728 +01:00 [INF] Request finished in 176.4351ms 200 application/json;charset=utf-8
+2021-03-21 21:22:15.956 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/KJHYUGUYGGUYGIUYHSADOIJSAOIPDJSAOIDJAOSIDJOASIJDAOSIJDOIASJDOISAJDOIASJOIDJASOIDJASODASOJIJDOAS  0
+2021-03-21 21:22:15.965 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:22:16.017 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:22:28.903 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 12878.4156ms
+2021-03-21 21:22:28.909 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:22:33.565 +01:00 [INF] Request finished in 17609.3756ms 400 
+2021-03-21 21:23:22.266 +01:00 [INF] Starting up
+2021-03-21 21:23:23.775 +01:00 [INF] Now listening on: https://localhost:5001
+2021-03-21 21:23:23.781 +01:00 [INF] Now listening on: http://localhost:5000
+2021-03-21 21:23:23.782 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-21 21:23:23.783 +01:00 [INF] Hosting environment: Development
+2021-03-21 21:23:23.785 +01:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-03-21 21:23:24.387 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-03-21 21:23:24.514 +01:00 [INF] Request finished in 130.1876ms 200 text/html;charset=utf-8
+2021-03-21 21:23:24.852 +01:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-03-21 21:23:24.981 +01:00 [INF] Request finished in 129.4457ms 200 application/json;charset=utf-8
+2021-03-21 21:23:35.950 +01:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/SalesOrder/httpConteDSADASDASJIDASOIJDSAOIJDOIASDJOASJDOIASJD[OIASMN09VSAU-9DMC809MNHCUODSQANUIYSAIUCDMNYUSIANMDHUSAIHFIUSANUIDSAxtDSA  0
+2021-03-21 21:23:35.961 +01:00 [INF] Executing endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:23:36.016 +01:00 [INF] Route matched with {action = "Add", controller = "SalesOrder"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddAsync(System.String) on controller CleanArchitecture.API.Controllers.SalesOrderController (CleanArchitecture.API).
+2021-03-21 21:23:40.541 +01:00 [INF] Executed action CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API) in 4517.4107ms
+2021-03-21 21:23:40.546 +01:00 [INF] Executed endpoint 'CleanArchitecture.API.Controllers.SalesOrderController.AddAsync (CleanArchitecture.API)'
+2021-03-21 21:23:41.930 +01:00 [INF] Request finished in 5980.4138ms 400 application/json

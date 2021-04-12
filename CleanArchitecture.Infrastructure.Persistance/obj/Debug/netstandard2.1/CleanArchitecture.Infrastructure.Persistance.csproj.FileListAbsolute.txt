@@ -1,0 +1,14 @@
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.deps.json
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Core.Application.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Core.Domain.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Core.Application.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\bin\Debug\netstandard2.1\CleanArchitecture.Core.Domain.pdb
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.csprojAssemblyReference.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.AssemblyInfoInputs.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.AssemblyInfo.cs
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.csproj.CopyComplete
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.dll
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.Infrastructure.Persistance\obj\Debug\netstandard2.1\CleanArchitecture.Infrastructure.Persistance.pdb

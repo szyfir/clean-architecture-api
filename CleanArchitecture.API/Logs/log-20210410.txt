@@ -1,0 +1,773 @@
+2021-04-10 17:58:05.316 +02:00 [INF] Starting up
+2021-04-10 17:58:07.906 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 17:58:08.732 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 17:58:08.734 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 17:58:08.735 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 17:58:08.736 +02:00 [INF] Hosting environment: Development
+2021-04-10 17:58:08.737 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 17:58:09.724 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger  
+2021-04-10 17:58:09.795 +02:00 [INF] Request finished in 75.1234ms 301 
+2021-04-10 17:58:09.808 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 17:58:09.858 +02:00 [INF] Request finished in 54.6867ms 200 text/html;charset=utf-8
+2021-04-10 17:58:09.893 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css  
+2021-04-10 17:58:09.893 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+2021-04-10 17:58:09.893 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+2021-04-10 17:58:09.931 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-04-10 17:58:09.931 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-04-10 17:58:09.939 +02:00 [INF] Request finished in 45.8697ms 200 text/css
+2021-04-10 17:58:09.939 +02:00 [INF] Request finished in 45.5174ms 200 application/javascript
+2021-04-10 17:58:09.958 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-04-10 17:58:09.962 +02:00 [INF] Request finished in 69.3518ms 200 application/javascript
+2021-04-10 17:58:10.248 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 17:58:10.307 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png  
+2021-04-10 17:58:10.313 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-04-10 17:58:10.320 +02:00 [INF] Request finished in 13.3545ms 200 image/png
+2021-04-10 17:58:10.429 +02:00 [INF] Request finished in 181.632ms 200 application/json;charset=utf-8
+2021-04-10 17:58:42.782 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 17:58:42.789 +02:00 [INF] Request finished in 7.535ms 200 text/html
+2021-04-10 17:58:44.497 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:44.500 +02:00 [INF] Request finished in 3.8714ms 404 
+2021-04-10 17:58:49.573 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:49.578 +02:00 [INF] Request finished in 6.3078ms 404 
+2021-04-10 17:58:50.621 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:50.626 +02:00 [INF] Request finished in 5.5757ms 404 
+2021-04-10 17:58:51.666 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:51.672 +02:00 [INF] Request finished in 6.7367ms 404 
+2021-04-10 17:58:52.697 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:52.704 +02:00 [INF] Request finished in 7.3849ms 404 
+2021-04-10 17:58:53.742 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:53.746 +02:00 [INF] Request finished in 5.1616ms 404 
+2021-04-10 17:58:55.782 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:55.786 +02:00 [INF] Request finished in 5.1514ms 404 
+2021-04-10 17:58:59.681 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:58:59.684 +02:00 [INF] Request finished in 2.3206ms 404 
+2021-04-10 17:59:05.692 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:59:05.698 +02:00 [INF] Request finished in 6.3609ms 404 
+2021-04-10 17:59:14.679 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:59:14.681 +02:00 [INF] Request finished in 2.0905ms 404 
+2021-04-10 17:59:28.635 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 17:59:28.641 +02:00 [INF] Request finished in 10.4532ms 404 
+2021-04-10 18:00:32.968 +02:00 [INF] Starting up
+2021-04-10 18:00:34.677 +02:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery Lifetime: Singleton ImplementationType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery': Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery Lifetime: Singleton ImplementationType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery': Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.
+ ---> System.InvalidOperationException: Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitScopeCache(ServiceCallSite scopedCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitConstructor(ConstructorCallSite constructorCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitRootCache(ServiceCallSite singletonCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.ValidateCallSite(ServiceCallSite callSite)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.Microsoft.Extensions.DependencyInjection.ServiceLookup.IServiceProviderEngineCallback.OnCreate(ServiceCallSite callSite)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngine engine, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngine engine, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:01:08.601 +02:00 [INF] Starting up
+2021-04-10 18:01:10.001 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:01:10.616 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 18:01:10.617 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 18:01:10.619 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 18:01:10.620 +02:00 [INF] Hosting environment: Development
+2021-04-10 18:01:10.621 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 18:01:11.371 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 18:01:11.477 +02:00 [INF] Request finished in 110.5462ms 200 text/html;charset=utf-8
+2021-04-10 18:01:11.900 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 18:01:12.058 +02:00 [INF] Request finished in 157.9605ms 200 application/json;charset=utf-8
+2021-04-10 18:01:18.213 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 18:01:18.223 +02:00 [INF] Request finished in 9.7075ms 200 text/html
+2021-04-10 18:01:19.297 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:19.299 +02:00 [INF] Request finished in 2.864ms 404 
+2021-04-10 18:01:24.333 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:24.340 +02:00 [INF] Request finished in 8.7722ms 404 
+2021-04-10 18:01:25.679 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:25.681 +02:00 [INF] Request finished in 2.7354ms 404 
+2021-04-10 18:01:27.697 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:27.704 +02:00 [INF] Request finished in 6.781ms 404 
+2021-04-10 18:01:29.672 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:29.674 +02:00 [INF] Request finished in 2.7152ms 404 
+2021-04-10 18:01:30.706 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:30.713 +02:00 [INF] Request finished in 6.6715ms 404 
+2021-04-10 18:01:33.688 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:01:33.694 +02:00 [INF] Request finished in 6.2923ms 404 
+2021-04-10 18:01:33.970 +02:00 [INF] Application is shutting down...
+2021-04-10 18:05:35.203 +02:00 [INF] Starting up
+2021-04-10 18:05:36.640 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:05:37.063 +02:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2021-04-10 18:05:37.142 +02:00 [FTL] Application start-up failed
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:09:58.917 +02:00 [INF] Starting up
+2021-04-10 18:10:00.432 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:10:00.834 +02:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2021-04-10 18:10:00.929 +02:00 [FTL] Application start-up failed
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:12:18.260 +02:00 [INF] Starting up
+2021-04-10 18:12:19.594 +02:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery Lifetime: Singleton ImplementationType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery': Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery Lifetime: Singleton ImplementationType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery': Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.
+ ---> System.InvalidOperationException: Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitScopeCache(ServiceCallSite scopedCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitConstructor(ConstructorCallSite constructorCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitRootCache(ServiceCallSite singletonCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.ValidateCallSite(ServiceCallSite callSite)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.Microsoft.Extensions.DependencyInjection.ServiceLookup.IServiceProviderEngineCallback.OnCreate(ServiceCallSite callSite)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngine engine, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngine engine, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:12:48.944 +02:00 [INF] Starting up
+2021-04-10 18:12:50.450 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:12:50.791 +02:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2021-04-10 18:12:50.882 +02:00 [FTL] Application start-up failed
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:18:23.765 +02:00 [INF] Starting up
+2021-04-10 18:18:25.301 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:18:25.686 +02:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2021-04-10 18:18:25.798 +02:00 [FTL] Application start-up failed
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[CleanArchitecture.Infrastructure.GraphQL.Schemas.SalesOrderSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.UseWhenExtensions.<>c__DisplayClass0_0.<UseWhen>b__0(RequestDelegate main)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:21:25.895 +02:00 [INF] Starting up
+2021-04-10 18:21:27.535 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:21:28.252 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 18:21:28.253 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 18:21:28.254 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 18:21:28.255 +02:00 [INF] Hosting environment: Development
+2021-04-10 18:21:28.258 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 18:21:31.394 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 18:21:31.503 +02:00 [INF] Request finished in 112.748ms 200 text/html;charset=utf-8
+2021-04-10 18:21:31.794 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 18:21:31.955 +02:00 [INF] Request finished in 161.1593ms 200 application/json;charset=utf-8
+2021-04-10 18:21:37.860 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 18:21:37.870 +02:00 [INF] Request finished in 11.5606ms 200 text/html
+2021-04-10 18:21:38.754 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:39.046 +02:00 [INF] Request finished in 292.9545ms 400 application/json
+2021-04-10 18:21:44.098 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:44.143 +02:00 [INF] Request finished in 47.288ms 400 application/json
+2021-04-10 18:21:45.179 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:45.239 +02:00 [INF] Request finished in 60.8998ms 400 application/json
+2021-04-10 18:21:46.292 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:46.332 +02:00 [INF] Request finished in 41.3693ms 400 application/json
+2021-04-10 18:21:47.354 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:47.378 +02:00 [INF] Request finished in 23.7852ms 400 application/json
+2021-04-10 18:21:48.397 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:48.419 +02:00 [INF] Request finished in 22.4411ms 400 application/json
+2021-04-10 18:21:50.679 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:50.717 +02:00 [INF] Request finished in 38.45ms 400 application/json
+2021-04-10 18:21:54.683 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:54.736 +02:00 [INF] Request finished in 53.8487ms 400 application/json
+2021-04-10 18:21:59.792 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:21:59.843 +02:00 [INF] Request finished in 50.7726ms 400 application/json
+2021-04-10 18:22:08.694 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:22:08.730 +02:00 [INF] Request finished in 36.2394ms 400 application/json
+2021-04-10 18:22:22.691 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:22:22.724 +02:00 [INF] Request finished in 34.3093ms 400 application/json
+2021-04-10 18:22:44.698 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:22:44.751 +02:00 [INF] Request finished in 53.5226ms 400 application/json
+2021-04-10 18:23:19.689 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:23:19.709 +02:00 [INF] Request finished in 20.4794ms 400 application/json
+2021-04-10 18:24:07.894 +02:00 [INF] Application is shutting down...
+2021-04-10 18:26:52.733 +02:00 [INF] Starting up
+2021-04-10 18:26:54.198 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:26:54.861 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 18:26:54.862 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 18:26:54.863 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 18:26:54.864 +02:00 [INF] Hosting environment: Development
+2021-04-10 18:26:54.866 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 18:26:55.549 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 18:26:55.687 +02:00 [INF] Request finished in 140.8818ms 200 text/html;charset=utf-8
+2021-04-10 18:26:56.079 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 18:26:56.250 +02:00 [INF] Request finished in 171.4842ms 200 application/json;charset=utf-8
+2021-04-10 18:27:05.717 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 18:27:05.724 +02:00 [INF] Request finished in 7.1121ms 200 text/html
+2021-04-10 18:27:06.637 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:06.867 +02:00 [INF] Request finished in 229.9951ms 400 application/json
+2021-04-10 18:27:11.906 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:11.962 +02:00 [INF] Request finished in 57.7618ms 400 application/json
+2021-04-10 18:27:13.008 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:13.048 +02:00 [INF] Request finished in 40.9159ms 400 application/json
+2021-04-10 18:27:14.087 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:14.120 +02:00 [INF] Request finished in 33.1897ms 400 application/json
+2021-04-10 18:27:15.156 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:15.202 +02:00 [INF] Request finished in 47.1512ms 400 application/json
+2021-04-10 18:27:16.244 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:16.267 +02:00 [INF] Request finished in 22.8676ms 400 application/json
+2021-04-10 18:27:18.302 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:18.353 +02:00 [INF] Request finished in 51.2779ms 400 application/json
+2021-04-10 18:27:21.379 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:21.430 +02:00 [INF] Request finished in 52.1961ms 400 application/json
+2021-04-10 18:27:24.351 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:24.373 +02:00 [INF] Request finished in 22.227ms 400 application/json
+2021-04-10 18:27:25.026 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:25.074 +02:00 [INF] Request finished in 48.8888ms 400 application/json
+2021-04-10 18:27:29.726 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:29.755 +02:00 [INF] Request finished in 28.5544ms 400 application/json
+2021-04-10 18:27:30.679 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:30.703 +02:00 [INF] Request finished in 24.254ms 400 application/json
+2021-04-10 18:27:35.698 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:35.730 +02:00 [INF] Request finished in 32.0462ms 400 application/json
+2021-04-10 18:27:36.691 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:36.743 +02:00 [INF] Request finished in 52.2214ms 400 application/json
+2021-04-10 18:27:41.679 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:41.717 +02:00 [INF] Request finished in 37.8936ms 400 application/json
+2021-04-10 18:27:42.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:42.726 +02:00 [INF] Request finished in 43.9486ms 400 application/json
+2021-04-10 18:27:47.680 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:47.703 +02:00 [INF] Request finished in 22.8113ms 400 application/json
+2021-04-10 18:27:48.680 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:48.702 +02:00 [INF] Request finished in 21.186ms 400 application/json
+2021-04-10 18:27:53.687 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:53.711 +02:00 [INF] Request finished in 24.1722ms 400 application/json
+2021-04-10 18:27:54.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:54.712 +02:00 [INF] Request finished in 29.7638ms 400 application/json
+2021-04-10 18:27:59.684 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:27:59.723 +02:00 [INF] Request finished in 39.3554ms 400 application/json
+2021-04-10 18:28:00.680 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:00.700 +02:00 [INF] Request finished in 20.0746ms 400 application/json
+2021-04-10 18:28:05.688 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:05.738 +02:00 [INF] Request finished in 49.9661ms 400 application/json
+2021-04-10 18:28:06.691 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:06.738 +02:00 [INF] Request finished in 46.3718ms 400 application/json
+2021-04-10 18:28:11.689 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:11.745 +02:00 [INF] Request finished in 55.2813ms 400 application/json
+2021-04-10 18:28:12.686 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:12.726 +02:00 [INF] Request finished in 40.4777ms 400 application/json
+2021-04-10 18:28:17.684 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:17.720 +02:00 [INF] Request finished in 35.2493ms 400 application/json
+2021-04-10 18:28:18.687 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:18.732 +02:00 [INF] Request finished in 45.0077ms 400 application/json
+2021-04-10 18:28:23.690 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:23.730 +02:00 [INF] Request finished in 40.7494ms 400 application/json
+2021-04-10 18:28:24.677 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:24.700 +02:00 [INF] Request finished in 22.8563ms 400 application/json
+2021-04-10 18:28:29.690 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:29.742 +02:00 [INF] Request finished in 52.1937ms 400 application/json
+2021-04-10 18:28:30.675 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:30.719 +02:00 [INF] Request finished in 44.2894ms 400 application/json
+2021-04-10 18:28:35.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:35.727 +02:00 [INF] Request finished in 44.9873ms 400 application/json
+2021-04-10 18:28:36.686 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:36.733 +02:00 [INF] Request finished in 47.8471ms 400 application/json
+2021-04-10 18:28:41.679 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:41.731 +02:00 [INF] Request finished in 51.8579ms 400 application/json
+2021-04-10 18:28:42.672 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:42.709 +02:00 [INF] Request finished in 37.4798ms 400 application/json
+2021-04-10 18:28:47.690 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:47.742 +02:00 [INF] Request finished in 51.535ms 400 application/json
+2021-04-10 18:28:48.670 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:48.688 +02:00 [INF] Request finished in 18.6914ms 400 application/json
+2021-04-10 18:28:53.693 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:53.734 +02:00 [INF] Request finished in 41.0799ms 400 application/json
+2021-04-10 18:28:54.681 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:54.702 +02:00 [INF] Request finished in 21.7489ms 400 application/json
+2021-04-10 18:28:59.685 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:28:59.725 +02:00 [INF] Request finished in 40.5548ms 400 application/json
+2021-04-10 18:29:00.684 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:00.703 +02:00 [INF] Request finished in 19.0593ms 400 application/json
+2021-04-10 18:29:05.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:05.731 +02:00 [INF] Request finished in 48.623ms 400 application/json
+2021-04-10 18:29:06.672 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:06.692 +02:00 [INF] Request finished in 19.897ms 400 application/json
+2021-04-10 18:29:11.684 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:11.702 +02:00 [INF] Request finished in 18.4623ms 400 application/json
+2021-04-10 18:29:12.683 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:12.707 +02:00 [INF] Request finished in 24.4931ms 400 application/json
+2021-04-10 18:29:17.475 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:17.496 +02:00 [INF] Request finished in 20.8886ms 400 application/json
+2021-04-10 18:29:17.755 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:17.775 +02:00 [INF] Request finished in 19.7566ms 400 application/json
+2021-04-10 18:29:18.123 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:18.156 +02:00 [INF] Request finished in 33.4282ms 400 application/json
+2021-04-10 18:29:22.678 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:22.723 +02:00 [INF] Request finished in 46.1885ms 400 application/json
+2021-04-10 18:29:23.684 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:23.731 +02:00 [INF] Request finished in 46.9197ms 400 application/json
+2021-04-10 18:29:28.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:28.702 +02:00 [INF] Request finished in 19.5736ms 400 application/json
+2021-04-10 18:29:29.675 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:29:29.723 +02:00 [INF] Request finished in 48.6354ms 400 application/json
+2021-04-10 18:29:30.898 +02:00 [INF] Application is shutting down...
+2021-04-10 18:30:02.751 +02:00 [INF] Starting up
+2021-04-10 18:30:04.502 +02:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery Lifetime: Singleton ImplementationType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery': Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery Lifetime: Singleton ImplementationType: CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery': Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.
+ ---> System.InvalidOperationException: Cannot consume scoped service 'CleanArchitecture.Core.Application.Contracts.Persistance.ISalesOrderRepsository' from singleton 'CleanArchitecture.Infrastructure.GraphQL.Queries.SalesOrderQuery'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitScopeCache(ServiceCallSite scopedCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitConstructor(ConstructorCallSite constructorCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.VisitRootCache(ServiceCallSite singletonCallSite, CallSiteValidatorState state)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteValidator.ValidateCallSite(ServiceCallSite callSite)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.Microsoft.Extensions.DependencyInjection.ServiceLookup.IServiceProviderEngineCallback.OnCreate(ServiceCallSite callSite)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngine engine, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngine engine, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at CleanArchitecture.API.Program.Main(String[] args) in C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\Program.cs:line 28
+2021-04-10 18:30:25.637 +02:00 [INF] Starting up
+2021-04-10 18:30:27.093 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:30:27.894 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 18:30:27.896 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 18:30:27.898 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 18:30:27.901 +02:00 [INF] Hosting environment: Development
+2021-04-10 18:30:27.902 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 18:30:32.089 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 18:30:32.207 +02:00 [INF] Request finished in 124.3734ms 200 text/html;charset=utf-8
+2021-04-10 18:30:32.487 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 18:30:32.664 +02:00 [INF] Request finished in 176.3957ms 200 application/json;charset=utf-8
+2021-04-10 18:30:39.295 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 18:30:39.301 +02:00 [INF] Request finished in 5.9164ms 200 text/html
+2021-04-10 18:30:40.778 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:41.002 +02:00 [INF] Request finished in 224.3007ms 400 application/json
+2021-04-10 18:30:46.036 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:46.060 +02:00 [INF] Request finished in 24.6773ms 400 application/json
+2021-04-10 18:30:47.093 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:47.123 +02:00 [INF] Request finished in 30.3038ms 400 application/json
+2021-04-10 18:30:48.161 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:48.208 +02:00 [INF] Request finished in 47.1518ms 400 application/json
+2021-04-10 18:30:49.239 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:49.279 +02:00 [INF] Request finished in 40.2721ms 400 application/json
+2021-04-10 18:30:50.304 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:50.359 +02:00 [INF] Request finished in 55.191ms 400 application/json
+2021-04-10 18:30:50.995 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:51.027 +02:00 [INF] Request finished in 32.2362ms 400 application/json
+2021-04-10 18:30:51.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:51.714 +02:00 [INF] Request finished in 32.6408ms 400 application/json
+2021-04-10 18:30:53.901 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:53.929 +02:00 [INF] Request finished in 27.5764ms 400 application/json
+2021-04-10 18:30:54.678 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:54.703 +02:00 [INF] Request finished in 24.6828ms 400 application/json
+2021-04-10 18:30:59.702 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:30:59.754 +02:00 [INF] Request finished in 52.4695ms 400 application/json
+2021-04-10 18:31:00.674 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:00.697 +02:00 [INF] Request finished in 22.4249ms 400 application/json
+2021-04-10 18:31:05.687 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:05.709 +02:00 [INF] Request finished in 22.8964ms 400 application/json
+2021-04-10 18:31:06.687 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:06.732 +02:00 [INF] Request finished in 46.067ms 400 application/json
+2021-04-10 18:31:11.688 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:11.740 +02:00 [INF] Request finished in 51.8906ms 400 application/json
+2021-04-10 18:31:12.674 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:12.720 +02:00 [INF] Request finished in 45.8056ms 400 application/json
+2021-04-10 18:31:17.701 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:17.732 +02:00 [INF] Request finished in 31.0763ms 400 application/json
+2021-04-10 18:31:18.680 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:18.733 +02:00 [INF] Request finished in 52.6873ms 400 application/json
+2021-04-10 18:31:23.673 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:23.695 +02:00 [INF] Request finished in 22.1571ms 400 application/json
+2021-04-10 18:31:24.676 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:24.698 +02:00 [INF] Request finished in 21.4903ms 400 application/json
+2021-04-10 18:31:27.006 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:27.033 +02:00 [INF] Request finished in 27.2002ms 400 application/json
+2021-04-10 18:31:27.698 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:27.726 +02:00 [INF] Request finished in 28.3846ms 400 application/json
+2021-04-10 18:31:32.094 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:32.114 +02:00 [INF] Request finished in 20.2703ms 400 application/json
+2021-04-10 18:31:32.754 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:32.775 +02:00 [INF] Request finished in 21.337ms 400 application/json
+2021-04-10 18:31:37.164 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:37.196 +02:00 [INF] Request finished in 32.2331ms 400 application/json
+2021-04-10 18:31:37.814 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:37.836 +02:00 [INF] Request finished in 22.0492ms 400 application/json
+2021-04-10 18:31:42.274 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:42.307 +02:00 [INF] Request finished in 33.2441ms 400 application/json
+2021-04-10 18:31:42.887 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:42.931 +02:00 [INF] Request finished in 44.6074ms 400 application/json
+2021-04-10 18:31:42.969 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:42.992 +02:00 [INF] Request finished in 23.2196ms 400 application/json
+2021-04-10 18:31:47.389 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:47.417 +02:00 [INF] Request finished in 27.7184ms 400 application/json
+2021-04-10 18:31:48.018 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:48.038 +02:00 [INF] Request finished in 20.503ms 400 application/json
+2021-04-10 18:31:48.065 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:48.085 +02:00 [INF] Request finished in 19.5799ms 400 application/json
+2021-04-10 18:31:52.467 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:52.493 +02:00 [INF] Request finished in 25.8444ms 400 application/json
+2021-04-10 18:31:53.101 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:31:53.124 +02:00 [INF] Request finished in 23.0117ms 400 application/json
+2021-04-10 18:33:03.695 +02:00 [INF] Starting up
+2021-04-10 18:33:05.114 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:33:05.772 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 18:33:05.782 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 18:33:05.783 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 18:33:05.784 +02:00 [INF] Hosting environment: Development
+2021-04-10 18:33:05.785 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 18:33:06.581 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 18:33:06.705 +02:00 [INF] Request finished in 126.4346ms 200 text/html;charset=utf-8
+2021-04-10 18:33:07.005 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 18:33:07.215 +02:00 [INF] Request finished in 209.5262ms 200 application/json;charset=utf-8
+2021-04-10 18:33:11.649 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 18:33:11.657 +02:00 [INF] Request finished in 9.2103ms 200 text/html
+2021-04-10 18:33:12.544 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:13.738 +02:00 [INF] Request finished in 1194.8384ms 200 application/json
+2021-04-10 18:33:15.828 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:15.843 +02:00 [INF] Request finished in 15.7634ms 200 application/json
+2021-04-10 18:33:17.896 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:17.917 +02:00 [INF] Request finished in 21.2263ms 200 application/json
+2021-04-10 18:33:19.962 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:19.984 +02:00 [INF] Request finished in 23.5482ms 200 application/json
+2021-04-10 18:33:22.065 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:22.076 +02:00 [INF] Request finished in 11.8113ms 200 application/json
+2021-04-10 18:33:24.108 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:24.128 +02:00 [INF] Request finished in 21.0888ms 200 application/json
+2021-04-10 18:33:26.164 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:26.179 +02:00 [INF] Request finished in 14.9891ms 200 application/json
+2021-04-10 18:33:28.212 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:28.225 +02:00 [INF] Request finished in 13.1038ms 200 application/json
+2021-04-10 18:33:30.260 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:30.268 +02:00 [INF] Request finished in 8.7898ms 200 application/json
+2021-04-10 18:33:32.295 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:32.307 +02:00 [INF] Request finished in 11.2421ms 200 application/json
+2021-04-10 18:33:34.335 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:34.346 +02:00 [INF] Request finished in 10.7258ms 200 application/json
+2021-04-10 18:33:36.371 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:36.393 +02:00 [INF] Request finished in 22.434ms 200 application/json
+2021-04-10 18:33:38.420 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:38.440 +02:00 [INF] Request finished in 19.8745ms 200 application/json
+2021-04-10 18:33:40.473 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:40.490 +02:00 [INF] Request finished in 18.0642ms 200 application/json
+2021-04-10 18:33:42.514 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:42.529 +02:00 [INF] Request finished in 15.4673ms 200 application/json
+2021-04-10 18:33:42.751 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 94
+2021-04-10 18:33:43.460 +02:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-04-10 18:33:44.559 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:44.578 +02:00 [INF] Request finished in 19.2517ms 200 application/json
+2021-04-10 18:33:46.608 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:46.609 +02:00 [INF] Executed DbCommand (202ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-04-10 18:33:46.615 +02:00 [INF] Request finished in 6.7713ms 200 application/json
+2021-04-10 18:33:46.669 +02:00 [INF] Request finished in 3918.0926ms 200 application/json
+2021-04-10 18:33:48.643 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:48.652 +02:00 [INF] Request finished in 9.3856ms 200 application/json
+2021-04-10 18:33:50.693 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:50.710 +02:00 [INF] Request finished in 16.7784ms 200 application/json
+2021-04-10 18:33:52.734 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:52.750 +02:00 [INF] Request finished in 16.2642ms 200 application/json
+2021-04-10 18:33:54.777 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:54.791 +02:00 [INF] Request finished in 14.8961ms 200 application/json
+2021-04-10 18:33:56.811 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:56.819 +02:00 [INF] Request finished in 7.4043ms 200 application/json
+2021-04-10 18:33:58.844 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:33:58.854 +02:00 [INF] Request finished in 9.3831ms 200 application/json
+2021-04-10 18:34:00.879 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:00.891 +02:00 [INF] Request finished in 12.0825ms 200 application/json
+2021-04-10 18:34:02.917 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:02.928 +02:00 [INF] Request finished in 10.9819ms 200 application/json
+2021-04-10 18:34:04.951 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:04.968 +02:00 [INF] Request finished in 17.0805ms 200 application/json
+2021-04-10 18:34:06.998 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:07.017 +02:00 [INF] Request finished in 18.9472ms 200 application/json
+2021-04-10 18:34:09.036 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:09.049 +02:00 [INF] Request finished in 13.1908ms 200 application/json
+2021-04-10 18:34:11.071 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:11.085 +02:00 [INF] Request finished in 13.7799ms 200 application/json
+2021-04-10 18:34:13.118 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:13.130 +02:00 [INF] Request finished in 12.1371ms 200 application/json
+2021-04-10 18:34:15.149 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:15.165 +02:00 [INF] Request finished in 15.698ms 200 application/json
+2021-04-10 18:34:17.192 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:17.204 +02:00 [INF] Request finished in 11.9379ms 200 application/json
+2021-04-10 18:34:19.229 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:19.241 +02:00 [INF] Request finished in 12.7336ms 200 application/json
+2021-04-10 18:34:21.259 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:21.265 +02:00 [INF] Request finished in 5.8056ms 200 application/json
+2021-04-10 18:34:23.285 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:23.296 +02:00 [INF] Request finished in 12.1702ms 200 application/json
+2021-04-10 18:34:25.321 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:25.333 +02:00 [INF] Request finished in 12.8214ms 200 application/json
+2021-04-10 18:34:27.356 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:27.368 +02:00 [INF] Request finished in 12.1985ms 200 application/json
+2021-04-10 18:34:29.392 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:29.405 +02:00 [INF] Request finished in 12.2792ms 200 application/json
+2021-04-10 18:34:31.421 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:31.425 +02:00 [INF] Request finished in 4.6213ms 200 application/json
+2021-04-10 18:34:33.448 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:33.460 +02:00 [INF] Request finished in 12.4633ms 200 application/json
+2021-04-10 18:34:35.483 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:35.496 +02:00 [INF] Request finished in 13.4141ms 200 application/json
+2021-04-10 18:34:37.519 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:37.530 +02:00 [INF] Request finished in 12.2019ms 200 application/json
+2021-04-10 18:34:39.555 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:39.562 +02:00 [INF] Request finished in 7.1956ms 200 application/json
+2021-04-10 18:34:41.583 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:41.595 +02:00 [INF] Request finished in 12.0578ms 200 application/json
+2021-04-10 18:34:43.614 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:43.626 +02:00 [INF] Request finished in 12.1406ms 200 application/json
+2021-04-10 18:34:45.652 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:45.660 +02:00 [INF] Request finished in 7.6587ms 200 application/json
+2021-04-10 18:34:47.682 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:47.695 +02:00 [INF] Request finished in 13.1371ms 200 application/json
+2021-04-10 18:34:49.718 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:49.728 +02:00 [INF] Request finished in 9.8766ms 200 application/json
+2021-04-10 18:34:51.745 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:51.752 +02:00 [INF] Request finished in 7.408ms 200 application/json
+2021-04-10 18:34:53.777 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:53.783 +02:00 [INF] Request finished in 6.8763ms 200 application/json
+2021-04-10 18:34:55.812 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:55.852 +02:00 [INF] Request finished in 40.7712ms 200 application/json
+2021-04-10 18:34:57.883 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:57.907 +02:00 [INF] Request finished in 24.909ms 200 application/json
+2021-04-10 18:34:59.930 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:34:59.943 +02:00 [INF] Request finished in 13.0444ms 200 application/json
+2021-04-10 18:35:01.969 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:01.975 +02:00 [INF] Request finished in 5.9647ms 200 application/json
+2021-04-10 18:35:03.990 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:03.997 +02:00 [INF] Request finished in 6.8121ms 200 application/json
+2021-04-10 18:35:06.017 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:06.030 +02:00 [INF] Request finished in 13.5122ms 200 application/json
+2021-04-10 18:35:07.718 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 104
+2021-04-10 18:35:07.742 +02:00 [INF] Request finished in 23.5663ms 200 application/json
+2021-04-10 18:35:08.055 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:08.066 +02:00 [INF] Request finished in 11.5504ms 200 application/json
+2021-04-10 18:35:10.088 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:10.096 +02:00 [INF] Request finished in 8.1368ms 200 application/json
+2021-04-10 18:35:26.063 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:26.076 +02:00 [INF] Request finished in 13.2081ms 200 application/json
+2021-04-10 18:35:28.102 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:28.109 +02:00 [INF] Request finished in 6.8679ms 200 application/json
+2021-04-10 18:35:40.176 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:40.187 +02:00 [INF] Request finished in 10.4547ms 200 application/json
+2021-04-10 18:35:42.209 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:42.217 +02:00 [INF] Request finished in 9.1156ms 200 application/json
+2021-04-10 18:35:44.245 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:44.258 +02:00 [INF] Request finished in 13.5981ms 200 application/json
+2021-04-10 18:35:46.278 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:46.282 +02:00 [INF] Request finished in 4.3905ms 200 application/json
+2021-04-10 18:35:48.301 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:48.314 +02:00 [INF] Request finished in 12.6023ms 200 application/json
+2021-04-10 18:35:49.159 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 103
+2021-04-10 18:35:49.163 +02:00 [INF] Request finished in 4.1189ms 200 application/json
+2021-04-10 18:35:50.338 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:50.354 +02:00 [INF] Request finished in 16.2553ms 200 application/json
+2021-04-10 18:35:52.379 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:52.385 +02:00 [INF] Request finished in 5.6771ms 200 application/json
+2021-04-10 18:35:54.409 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:54.415 +02:00 [INF] Request finished in 6.1172ms 200 application/json
+2021-04-10 18:35:56.434 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:56.443 +02:00 [INF] Request finished in 8.8081ms 200 application/json
+2021-04-10 18:35:58.466 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:35:58.479 +02:00 [INF] Request finished in 13.8823ms 200 application/json
+2021-04-10 18:36:24.662 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:24.666 +02:00 [INF] Request finished in 4.1356ms 200 application/json
+2021-04-10 18:36:26.693 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:26.703 +02:00 [INF] Request finished in 10.6602ms 200 application/json
+2021-04-10 18:36:28.719 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:28.724 +02:00 [INF] Request finished in 4.8828ms 200 application/json
+2021-04-10 18:36:30.744 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:30.751 +02:00 [INF] Request finished in 7.4539ms 200 application/json
+2021-04-10 18:36:39.198 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:39.209 +02:00 [INF] Request finished in 11.4213ms 200 application/json
+2021-04-10 18:36:41.226 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:41.230 +02:00 [INF] Request finished in 4.444ms 200 application/json
+2021-04-10 18:36:43.262 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:43.266 +02:00 [INF] Request finished in 4.0935ms 200 application/json
+2021-04-10 18:36:45.286 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:45.297 +02:00 [INF] Request finished in 11.872ms 200 application/json
+2021-04-10 18:36:47.321 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:47.331 +02:00 [INF] Request finished in 10.4947ms 200 application/json
+2021-04-10 18:36:49.350 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:49.358 +02:00 [INF] Request finished in 8.3629ms 200 application/json
+2021-04-10 18:36:51.379 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:51.392 +02:00 [INF] Request finished in 12.5333ms 200 application/json
+2021-04-10 18:36:53.416 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:53.428 +02:00 [INF] Request finished in 12.1182ms 200 application/json
+2021-04-10 18:36:55.445 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:55.449 +02:00 [INF] Request finished in 4.2958ms 200 application/json
+2021-04-10 18:36:57.471 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:57.483 +02:00 [INF] Request finished in 11.8967ms 200 application/json
+2021-04-10 18:36:59.509 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:36:59.521 +02:00 [INF] Request finished in 11.6184ms 200 application/json
+2021-04-10 18:37:01.542 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:01.548 +02:00 [INF] Request finished in 5.7177ms 200 application/json
+2021-04-10 18:37:03.173 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 103
+2021-04-10 18:37:03.176 +02:00 [INF] Request finished in 3.2042ms 200 application/json
+2021-04-10 18:37:03.568 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:03.579 +02:00 [INF] Request finished in 11.8026ms 200 application/json
+2021-04-10 18:37:05.601 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:05.614 +02:00 [INF] Request finished in 13.2896ms 200 application/json
+2021-04-10 18:37:07.664 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:07.671 +02:00 [INF] Request finished in 7.5174ms 200 application/json
+2021-04-10 18:37:24.568 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:24.574 +02:00 [INF] Request finished in 5.8742ms 200 application/json
+2021-04-10 18:37:26.594 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:26.602 +02:00 [INF] Request finished in 7.9759ms 200 application/json
+2021-04-10 18:37:28.625 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:28.631 +02:00 [INF] Request finished in 6.5627ms 200 application/json
+2021-04-10 18:37:29.003 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 104
+2021-04-10 18:37:29.007 +02:00 [INF] Request finished in 4.0002ms 200 application/json
+2021-04-10 18:37:30.661 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:37:30.665 +02:00 [INF] Request finished in 4.0878ms 200 application/json
+2021-04-10 18:38:06.941 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:06.947 +02:00 [INF] Request finished in 5.5186ms 200 application/json
+2021-04-10 18:38:08.958 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:08.963 +02:00 [INF] Request finished in 4.6855ms 200 application/json
+2021-04-10 18:38:10.980 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:10.986 +02:00 [INF] Request finished in 5.8004ms 200 application/json
+2021-04-10 18:38:13.013 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:13.021 +02:00 [INF] Request finished in 7.8526ms 200 application/json
+2021-04-10 18:38:13.262 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 86
+2021-04-10 18:38:13.310 +02:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-04-10 18:38:13.861 +02:00 [INF] Executed DbCommand (546ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-04-10 18:38:13.868 +02:00 [INF] Request finished in 606.5029ms 200 application/json
+2021-04-10 18:38:15.045 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:15.049 +02:00 [INF] Request finished in 4.7247ms 200 application/json
+2021-04-10 18:38:17.066 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:17.074 +02:00 [INF] Request finished in 7.4625ms 200 application/json
+2021-04-10 18:38:19.096 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:19.109 +02:00 [INF] Request finished in 12.9023ms 200 application/json
+2021-04-10 18:38:21.136 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:21.144 +02:00 [INF] Request finished in 8.2483ms 200 application/json
+2021-04-10 18:38:23.166 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:23.179 +02:00 [INF] Request finished in 12.607ms 200 application/json
+2021-04-10 18:38:25.203 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:25.208 +02:00 [INF] Request finished in 5.0512ms 200 application/json
+2021-04-10 18:38:27.236 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:27.252 +02:00 [INF] Request finished in 15.6495ms 200 application/json
+2021-04-10 18:38:29.283 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:29.294 +02:00 [INF] Request finished in 12.2202ms 200 application/json
+2021-04-10 18:38:30.203 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 86
+2021-04-10 18:38:30.218 +02:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-04-10 18:38:30.227 +02:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-04-10 18:38:30.231 +02:00 [INF] Request finished in 28.1993ms 200 application/json
+2021-04-10 18:38:31.307 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:38:31.311 +02:00 [INF] Request finished in 4.5514ms 200 application/json
+2021-04-10 18:39:06.485 +02:00 [INF] Starting up
+2021-04-10 18:39:07.881 +02:00 [INF] User profile is available. Using 'C:\Users\filus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-04-10 18:39:08.476 +02:00 [INF] Now listening on: https://localhost:5001
+2021-04-10 18:39:08.478 +02:00 [INF] Now listening on: http://localhost:5000
+2021-04-10 18:39:08.480 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-10 18:39:08.481 +02:00 [INF] Hosting environment: Development
+2021-04-10 18:39:08.485 +02:00 [INF] Content root path: C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API
+2021-04-10 18:39:09.191 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+2021-04-10 18:39:09.303 +02:00 [INF] Request finished in 114.7906ms 200 text/html;charset=utf-8
+2021-04-10 18:39:09.584 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+2021-04-10 18:39:09.730 +02:00 [INF] Request finished in 146.0976ms 200 application/json;charset=utf-8
+2021-04-10 18:39:49.494 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ui/playground  
+2021-04-10 18:39:49.499 +02:00 [INF] Request finished in 5.9308ms 200 text/html
+2021-04-10 18:39:51.010 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:39:51.820 +02:00 [INF] Request finished in 810.1936ms 200 application/json
+2021-04-10 18:39:52.470 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:39:52.483 +02:00 [INF] Request finished in 13.2361ms 200 application/json
+2021-04-10 18:39:54.069 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 86
+2021-04-10 18:39:54.506 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:39:54.516 +02:00 [INF] Request finished in 9.6046ms 200 application/json
+2021-04-10 18:39:54.735 +02:00 [INF] Entity Framework Core 5.0.4 initialized 'CleanArchitectureDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-04-10 18:39:55.650 +02:00 [INF] Executed DbCommand (61ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[CreatedAt], [s].[CreatedBy], [s].[EditedBy], [s].[LastEditAt], [s].[Name]
+FROM [SalesOrders] AS [s]
+2021-04-10 18:39:55.706 +02:00 [INF] Request finished in 1638.1484ms 200 application/json
+2021-04-10 18:39:56.535 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:39:56.565 +02:00 [INF] Request finished in 29.8126ms 200 application/json
+2021-04-10 18:39:58.591 +02:00 [INF] Request starting HTTP/2 POST https://localhost:5001/graphql application/json 1468
+2021-04-10 18:39:58.600 +02:00 [INF] Request finished in 9.4419ms 200 application/json
