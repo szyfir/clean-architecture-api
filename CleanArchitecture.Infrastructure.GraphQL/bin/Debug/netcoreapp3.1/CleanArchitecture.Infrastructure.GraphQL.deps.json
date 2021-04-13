@@ -10,7 +10,8 @@
         "dependencies": {
           "CleanArchitecture.Core.Application": "1.0.0",
           "CleanArchitecture.Core.Domain": "1.0.0",
-          "GraphQL": "4.2.0"
+          "GraphQL": "4.2.0",
+          "GraphQL.MicrosoftDI": "4.2.0"
         },
         "runtime": {
           "CleanArchitecture.Infrastructure.GraphQL.dll": {}
@@ -115,6 +116,18 @@
           "lib/netstandard2.1/GraphQL-Parser.dll": {
             "assemblyVersion": "7.0.0.0",
             "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "GraphQL.MicrosoftDI/4.2.0": {
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.1.21102.12"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.MicrosoftDI.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
           }
         }
       },
@@ -274,6 +287,13 @@
       "sha512": "sha512-O5jegoGy5swjgjUJTJWf4A5iJnZsisa58+dbhiG/mfdUgkLnePS6F0Zki5EeCOfiCJ3HYfAd8z7jl09Hpb6TCw==",
       "path": "graphql-parser/7.0.0",
       "hashPath": "graphql-parser.7.0.0.nupkg.sha512"
+    },
+    "GraphQL.MicrosoftDI/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2OSmt2BWMRPm3CjQxQrrxipYv9CKhuAq7UGy0TOPQB+fzWTUV0QubaYPIVYUZcE/WD+wPyiFd8slB855PHGr/w==",
+      "path": "graphql.microsoftdi/4.2.0",
+      "hashPath": "graphql.microsoftdi.4.2.0.nupkg.sha512"
     },
     "MediatR/9.0.0": {
       "type": "package",

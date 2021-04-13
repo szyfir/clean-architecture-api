@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="GraphQL" Version="4.2.0" />
+    <PackageReference Include="GraphQL.MicrosoftDI" Version="4.2.0" />
   </ItemGroup>
 
   <ItemGroup>

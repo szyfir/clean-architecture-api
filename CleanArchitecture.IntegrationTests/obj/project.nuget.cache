@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mhefRAtM5shiKWCMgg345SAVwv4oW7vWLF2fM0rGsZCSG3yo7UFp7a0qlXjUzBw5x4uHQkgOwlwfSCh6pKEeHg==",
+  "dgSpecHash": "q5FB06wQApgXpmXCpmX1NdnGlMLY75y+eC9HYPZXTJctGQrP/cLVTK/t5gT3GeB/RB6gK7F1hJkq2cp5NVJ7wQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.IntegrationTests\\CleanArchitecture.IntegrationTests.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\filus\\.nuget\\packages\\graphql\\4.2.0\\graphql.4.2.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql-parser\\7.0.0\\graphql-parser.7.0.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql.dataloader\\4.1.0\\graphql.dataloader.4.1.0.nupkg.sha512",
+    "C:\\Users\\filus\\.nuget\\packages\\graphql.microsoftdi\\4.2.0\\graphql.microsoftdi.4.2.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql.newtonsoftjson\\4.1.0\\graphql.newtonsoftjson.4.1.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql.server.core\\5.0.1\\graphql.server.core.5.0.1.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql.server.transports.aspnetcore\\5.0.1\\graphql.server.transports.aspnetcore.5.0.1.nupkg.sha512",

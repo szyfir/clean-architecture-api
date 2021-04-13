@@ -329,6 +329,10 @@
             "GraphQL": {
               "target": "Package",
               "version": "[4.2.0, )"
+            },
+            "GraphQL.MicrosoftDI": {
+              "target": "Package",
+              "version": "[4.2.0, )"
             }
           },
           "imports": [

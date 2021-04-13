@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s/7dihKsrtd8ORNc2WnlqI9sTLV3ZEDw+4u9WReMNaSexWp2ncqe8XeeJcNGqh0P8Z5PeJtRcisaBhw5eFalXw==",
+  "dgSpecHash": "WxGMAKdO8QMZ6YaV1+4T/KLtGnNXipLC+h9fcTCA/YfTeU30UGOus5RysoTrqGQYXK6+oDeOC2oePhV/G3/tNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\filus\\source\\repos\\CleanArchitecture\\CleanArchitecture.Infrastructure.GraphQL\\CleanArchitecture.Infrastructure.GraphQL.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\filus\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.0.0-preview1\\fluentvalidation.dependencyinjectionextensions.10.0.0-preview1.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql\\4.2.0\\graphql.4.2.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\graphql-parser\\7.0.0\\graphql-parser.7.0.0.nupkg.sha512",
+    "C:\\Users\\filus\\.nuget\\packages\\graphql.microsoftdi\\4.2.0\\graphql.microsoftdi.4.2.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\filus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

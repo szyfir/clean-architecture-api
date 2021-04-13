@@ -13,7 +13,7 @@ namespace CleanArchitecture.Infrastructure.GraphQL.Types
         {
             Field(w => w.Id).Description("Specified identificator");
             Field(w => w.Name);
-            Field<SalesOrderTypeEnumType>("Type");
+            Field<SalesOrderTypeEnumType>("Type", resolve: w => w.Source.SalesOrderType);
         }
     }
 }

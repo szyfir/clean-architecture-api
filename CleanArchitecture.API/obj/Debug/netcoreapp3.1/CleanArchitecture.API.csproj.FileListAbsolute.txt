@@ -129,3 +129,4 @@ C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\bin\Debug\ne
 C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Dataflow.dll
 C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\bin\Debug\netcoreapp3.1\System.Reactive.dll
 C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\filus\source\repos\CleanArchitecture\CleanArchitecture.API\bin\Debug\netcoreapp3.1\GraphQL.MicrosoftDI.dll

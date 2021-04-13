@@ -12,10 +12,10 @@ namespace CleanArchitecture.Infrastructure.GraphQL
     {
         public static IServiceCollection AddGrahQLConfiguration(this IServiceCollection services)
         {
-            services.AddScoped<SalesOrderType>();
-            services.AddScoped<SalesOrderTypeEnumType>();
+            services.AddSingleton<SalesOrderType>();
+            services.AddSingleton<SalesOrderTypeEnumType>();
             services.AddScoped<SalesOrderQuery>();
-            services.AddScoped<SalesOrderSchema>();
+            services.AddSingleton<SalesOrderSchema>();
             return services;
         }
     }

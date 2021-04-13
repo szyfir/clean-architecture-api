@@ -116,6 +116,19 @@
           "lib/netstandard2.1/GraphQL-Parser.dll": {}
         }
       },
+      "GraphQL.MicrosoftDI/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.MicrosoftDI.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.MicrosoftDI.dll": {}
+        }
+      },
       "MediatR/9.0.0": {
         "type": "package",
         "compile": {
@@ -401,6 +414,20 @@
         "lib/netstandard2.0/GraphQL-Parser.xml",
         "lib/netstandard2.1/GraphQL-Parser.dll",
         "lib/netstandard2.1/GraphQL-Parser.xml",
+        "logo.64x64.png"
+      ]
+    },
+    "GraphQL.MicrosoftDI/4.2.0": {
+      "sha512": "2OSmt2BWMRPm3CjQxQrrxipYv9CKhuAq7UGy0TOPQB+fzWTUV0QubaYPIVYUZcE/WD+wPyiFd8slB855PHGr/w==",
+      "type": "package",
+      "path": "graphql.microsoftdi/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "graphql.microsoftdi.4.2.0.nupkg.sha512",
+        "graphql.microsoftdi.nuspec",
+        "lib/netstandard2.0/GraphQL.MicrosoftDI.dll",
+        "lib/netstandard2.0/GraphQL.MicrosoftDI.xml",
         "logo.64x64.png"
       ]
     },
@@ -788,7 +815,8 @@
     ".NETCoreApp,Version=v3.1": [
       "CleanArchitecture.Core.Application >= 1.0.0",
       "CleanArchitecture.Core.Domain >= 1.0.0",
-      "GraphQL >= 4.2.0"
+      "GraphQL >= 4.2.0",
+      "GraphQL.MicrosoftDI >= 4.2.0"
     ]
   },
   "packageFolders": {
@@ -838,6 +866,10 @@
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "GraphQL": {
+            "target": "Package",
+            "version": "[4.2.0, )"
+          },
+          "GraphQL.MicrosoftDI": {
             "target": "Package",
             "version": "[4.2.0, )"
           }

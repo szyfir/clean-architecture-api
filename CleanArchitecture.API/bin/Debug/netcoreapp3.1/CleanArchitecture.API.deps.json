@@ -462,6 +462,21 @@
           "lib/netstandard2.0/GraphQL.DataLoader.dll": {}
         }
       },
+      "GraphQL.MicrosoftDI/4.2.0": {
+        "dependencies": {
+          "GraphQL": "4.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0-preview.1.21102.12"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GraphQL.MicrosoftDI.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GraphQL.MicrosoftDI.dll": {}
+        }
+      },
       "GraphQL.NewtonsoftJson/4.1.0": {
         "dependencies": {
           "GraphQL": "4.2.0",
@@ -2231,7 +2246,8 @@
         "dependencies": {
           "CleanArchitecture.Core.Application": "1.0.0",
           "CleanArchitecture.Core.Domain": "1.0.0",
-          "GraphQL": "4.2.0"
+          "GraphQL": "4.2.0",
+          "GraphQL.MicrosoftDI": "4.2.0"
         },
         "runtime": {
           "CleanArchitecture.Infrastructure.GraphQL.dll": {}
@@ -3916,6 +3932,13 @@
       "sha512": "sha512-M52nV5jphZh33uKIG9y6072xsAjB76IzRXB+X7V6RHsnvslV/16YJ361UJl26Z4OTtD2dsIeP4LWp9PntKyiOg==",
       "path": "graphql.dataloader/4.1.0",
       "hashPath": "graphql.dataloader.4.1.0.nupkg.sha512"
+    },
+    "GraphQL.MicrosoftDI/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2OSmt2BWMRPm3CjQxQrrxipYv9CKhuAq7UGy0TOPQB+fzWTUV0QubaYPIVYUZcE/WD+wPyiFd8slB855PHGr/w==",
+      "path": "graphql.microsoftdi/4.2.0",
+      "hashPath": "graphql.microsoftdi.4.2.0.nupkg.sha512"
     },
     "GraphQL.NewtonsoftJson/4.1.0": {
       "type": "package",
