@@ -5,6 +5,7 @@ using System.Text;
 using GraphQL;
 using CleanArchitecture.Infrastructure.GraphQL.Queries;
 using Microsoft.Extensions.DependencyInjection;
+using CleanArchitecture.Infrastructure.GraphQL.Mutations;
 
 namespace CleanArchitecture.Infrastructure.GraphQL.Schemas
 {
@@ -13,6 +14,7 @@ namespace CleanArchitecture.Infrastructure.GraphQL.Schemas
         public SalesOrderSchema(IServiceProvider services) : base(services)
         {
             Query = services.GetRequiredService<SalesOrderQuery>();
+            Mutation = services.GetRequiredService<SalesOrderMutation>();
         }
     }
 }

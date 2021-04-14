@@ -19,6 +19,7 @@ namespace CleanArchitecture.Infrastructure.Persistance.Repositories
         public async Task AddAsync(T entity)
         {
             await _dbContext.Set<T>().AddAsync(entity);
+            await _dbContext.SaveChangesAsync();
         }
 
         public Task DeleteAsync(T entity)
