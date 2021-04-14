@@ -9,7 +9,7 @@ namespace CleanArchitecture.Infrastructure.Persistance.Repositories
 {
     public class BasicRepository<T> : IAsyncRepository<T> where T : class
     {
-        private readonly CleanArchitectureDbContext _dbContext;
+        protected readonly CleanArchitectureDbContext _dbContext;
 
         public BasicRepository(CleanArchitectureDbContext dbContext)
         {
